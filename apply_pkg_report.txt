@@ -1,0 +1,41 @@
+TOTAL: 39 replacements; JSON VALID; missed: 0
+ok    1  New Task
+ok    1  MCP Servers
+ok    1  Customize
+ok    1  History
+ok    1  Account
+ok    1  Settings
+ok    1  Create Test Tasks
+ok    1  Expire MCP OAuth Tokens (for testing)
+ok    2  Add to Cline
+ok    1  Jump to Chat Input
+ok    1  Generate Commit Message with Cline
+ok    1  Generate Commit Message with Cline - Stop
+ok    1  Explain with Cline
+ok    1  Improve with Cline
+ok    1  Generate Jupyter Cell with Cline
+ok    1  Explain Jupyter Cell with Cline
+ok    1  Improve Jupyter Cell with Cline
+ok    1  Open Walkthrough
+ok    1  Reconstruct Task History
+ok    1  Reply
+ok    1  Add to Cline Chat
+ok    1  Meet Cline, your new coding partner
+ok    1  Cline codes like a developer because it thinks like one. Here are 5 ways to put it to work:
+ok    1  Start with a Goal, Not Just a Prompt
+ok    1  Tell Cline what you want to achieve. It plans, asks, and then codes, like a true partner.
+ok    1  Let Cline Learn Your Codebase
+ok    1  Point Cline to your project. It builds understanding to make smart, context-aware changes.
+ok    1  Always Use the Best AI Models
+ok    1  Cline empowers you with State-of-the-Art AI, connecting to top models (Anthropic, Gemini, OpenAI & more).
+ok    1  Extend with Powerful Tools (MCP)
+ok    1  Connect to databases, APIs, and other external tools through MCP.
+ok    1  You're Always in Control
+ok    1  Review Cline's plans and diffs. Approve changes before they happen. No surprises.
+ok    1  Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.
+ok    1  Manual override for Cline's staged extension rollout. `next` forces the new (SDK-based) extension, `legacy` forces the previous one, `auto` follows the remote rollout assignment. Takes effect on window reload.
+line  1  Force the new (SDK-based) extension.
+line  1  Force the previous (legacy) extension.
+line  1  Follow the remote rollout assignment.
+
+=== NOT FOUND ===

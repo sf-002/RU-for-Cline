@@ -1,0 +1,30 @@
+GRAND TOTAL: 782   file: c:\Users\User\.vscode\extensions\saoudrizwan.claude-dev-4.1.20\next\webview-ui\build\assets\index.js
+### cline_ru_dict.json: replaced 232, entries used 104
+regex 209  description\s*:\s*"([^"]{2,60}) model provider from models\.dev"
+### cline_ru_dict2.json: replaced 405, entries used 163
+raw    1  return"Global"
+raw    1  return"Workspace"
+raw    1  return"Remote"
+raw    1  plural:"plugins"
+raw    1  singular:"plugin"
+### cline_ru_dict3.json: replaced 66, entries used 52
+### cline_ru_dict4.json: replaced 47, entries used 37
+pair   3  ?"Yes":"No"
+pair   1  ?"Copied":"Copy"
+bare  20  You must provide a valid API key or choose a different provider.
+bare   5  This file is outside of your workspace
+bare   3  This is outside of your workspace
+
+=== LEFT IN ENGLISH (12) ===
+cline_ru_dict.json  |  1 left, 0 safe  |  Browser
+cline_ru_dict.json  |  1 left, 0 safe  |  Files
+cline_ru_dict.json  |  1 left, 0 safe  |  Images
+cline_ru_dict.json  |  1 left, 0 safe  |  Approve
+cline_ru_dict.json  |  1 left, 0 safe  |  Reject
+cline_ru_dict.json  |  1 left, 0 safe  |  Retry
+cline_ru_dict.json  |  3 left, 2 safe  |  Copy
+cline_ru_dict.json  |  1 left, 0 safe  |  Custom
+cline_ru_dict2.json  |  2 left, 1 safe  |  This key is stored locally and only used to make API requests from this extension.
+cline_ru_dict3.json  |  1 left, 0 safe  |  📋 Output is being logged to:
+cline_ru_dict3.json  |  1 left, 0 safe  |  Approve
+cline_ru_dict3.json  |  1 left, 0 safe  |  Reject

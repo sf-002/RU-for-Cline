@@ -1,0 +1,122 @@
+### WEBVIEW (next)  |  unique display strings: 121
+  14  ACC_DESCR
+  14  ACC_TITLE
+   8  SINGLE_LINE_COMMENT
+   4  label label__hidden
+   2  ML_COMMENT
+   1  ABNF_COMMENT
+   1  ABNF_DIRECTIVE
+   1  ABNF_EXACT_REPEAT
+   1  ABNF_NUMVAL
+   1  ABNF_REPEAT
+   1  ABNF_RULENAME
+   1  ABNF_SINGLE_LINE_COMMENT
+   1  ABNF_STRING
+   1  ABNF_WHITESPACE
+   1  ABNF_YAML
+   1  Add Context
+   1  ARCH_ICON
+   1  ARCH_TITLE
+   1  ARROW_DIRECTION
+   1  ARROW_GROUP
+   1  ARROW_INTO
+   1  BARE_NAME
+   1  Cancel queued message
+   1  CLASS_ANNOTATION
+   1  CLASS_DEF
+   1  Context mentions
+   1  Context window usage progress
+   1  Copy Cline sign-in code
+   1  Delete hook file
+   1  Delete selected items
+   1  DESC_ANNOTATION
+   1  Dismiss banner
+   1  Dismiss ClinePass hint
+   1  Dismiss quote
+   1  DOMAIN_NAME
+   1  EBNF_BLOCK_COMMENT
+   1  EBNF_DIRECTIVE
+   1  EBNF_ID
+   1  EBNF_ISO_COMMENT
+   1  EBNF_SINGLE_LINE_COMMENT
+   1  EBNF_SPECIAL_SEQUENCE
+   1  EBNF_STRING
+   1  EBNF_WHITESPACE
+   1  EBNF_YAML
+   1  Edit and regenerate from this message
+   1  Edit hook file
+   1  EM_ACC_DESCR
+   1  EM_ACC_TITLE
+   1  EM_DATA_BLOCK
+   1  EM_DATA_INLINE
+   1  EM_DIRECTIVE
+   1  EM_EID
+   1  EM_FI
+   1  EM_FID
+   1  EM_ID
+   1  EM_ML_COMMENT
+   1  EM_SINGLE_LINE_COMMENT
+   1  EM_SL_COMMENT
+   1  EM_TITLE
+   1  EM_WS
+   1  EM_YAML
+   1  FLOAT_PIE
+   1  Follow us on LinkedIn
+   1  Follow us on X
+   1  Go to MCP server settings
+   1  ICON_ANNOTATION
+   1  ID модели
+   1  ID2
+   1  INT_PIE
+   1  Join our Discord
+   1  Join our subreddit
+   1  KW_ACCELERATOR
+   1  KW_ANCHOR
+   1  KW_ANNOTATION
+   1  KW_ANNOTATIONS
+   1  KW_COMPONENT
+   1  KW_DEACCELERATOR
+   1  KW_EVOLUTION
+   1  KW_EVOLVE
+   1  KW_INERTIA
+   1  KW_LABEL
+   1  KW_NOTE
+   1  KW_PIPELINE
+   1  KW_SIZE
+   1  KW_WARDLEY
+   1  LINK_ARROW
+   1  LINK_LABEL
+   1  LINK_PORT
+   1  Model suggestions
+   1  NAME_WITH_SPACES
+   1  Next banner
+   1  NUMBER_PIE
+   1  NUMBER2
+   1  Oracle employment
+   1  Orchestration Mode
+   1  PEG_DIRECTIVE
+   1  PEG_ID
+   1  PEG_LINE_COMMENT
+   1  PEG_SINGLE_LINE_COMMENT
+   1  PEG_STRING
+   1  PEG_WHITESPACE
+   1  PEG_YAML
+   1  Previous banner
+   1  Quote selection
+   1  QUOTED_NAME
+   1  RR_BLOCK_COMMENT
+   1  RR_DIRECTIVE
+   1  RR_ID
+   1  RR_SINGLE_LINE_COMMENT
+   1  RR_STRING
+   1  RR_WHITESPACE
+   1  RR_YAML
+   1  Select hook type to create
+   1  Show full subagent prompt
+   1  Slash commands
+   1  Star us on GitHub
+   1  STRING2
+   1  STYLE_SEPARATOR
+   1  TREEMAP_KEYWORD
+   1  View all history
+   1  WARDLEY_NUMBER

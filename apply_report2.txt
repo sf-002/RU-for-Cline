@@ -1,0 +1,120 @@
+TOTAL replaced: 264 (entries used: 104/115)
+prop   1  How will you use Cline?
+prop   1  Select an option below to get started.
+prop   1  Absolutely Free
+prop   1  Get started at no cost
+prop   1  Frontier Model
+prop   1  Claude, GPT Codex, Gemini, etc.
+prop   1  Bring my own API key
+prop   1  Use Cline with your provider of choice
+prop   2  Continue
+prop   1  Login to Cline
+prop   3  Create my Account
+prop   5  Back
+prop   1  Select a ClinePass model
+prop   1  Select a free model
+expr   1 (+prop 0)  Get Started for Free
+prop   3  Account
+prop   2  Log out
+prop   1  Sign Out
+expr   1 (+prop 0)  Usage
+prop   1  Chat
+prop   2  New Task
+prop   3  History
+prop   3  Settings
+prop   4  Customize
+prop   2  About
+prop   1  About Cline
+prop   3  MCP Servers
+prop   1  Rules
+prop   2  Hooks
+prop   1  Workflows
+prop   3  Skills
+prop   1  Installed
+prop   3  Marketplace
+prop   1  Configure
+expr   1 (+prop 1)  Advanced
+expr   1 (+prop 2)  Debug
+prop   1  Features
+prop   2  Feature Settings
+prop   1  General
+prop   2  General Settings
+expr   3 (+prop 1)  Terminal
+prop   2  Terminal Settings
+prop   3  API Configuration
+prop   1  Documentation
+prop   6  Learn more
+prop   2  Context Window
+expr   2 (+prop 2)  Context Window Size
+expr   2 (+prop 2)  Max Output Tokens
+expr   1 (+prop 1)  Reasoning Effort
+expr   1 (+prop 0)  Higher effort improves depth, but uses more tokens.
+expr   1 (+prop 1)  Temperature
+prop   2  API Provider
+prop   5  API Key
+prop   5  Base URL
+prop   4  Model ID
+prop   1  Model Configuration
+expr   1 (+prop 5)  Use custom base URL
+expr   1 (+prop 0)  Default: https://api.example.com
+expr   1 (+prop 5)  Enter API Key...
+prop   1  Checkpoints
+prop   1  Save progress at key points for easy rollback
+expr   1 (+prop 1)  Edit Configuration
+expr   2 (+prop 1)  Delete Server
+expr   1 (+prop 1)  Console Logs
+expr   1 (+prop 0)  User Edits
+expr   3 (+prop 7)  Search and select a model...
+prop  14  Clear search
+prop   2  not set
+prop   1  Read files
+prop   1  Edit files
+prop   1  Execute commands
+prop   1  Use MCP servers
+prop   1  Read
+prop   1  Edit
+expr   1 (+prop 0)  Audio
+prop   2  Add Files & Images
+prop   1  Save
+prop   1  Resume Task
+prop   4  Start New Task
+prop   2  Proceed While Running
+prop   1  Abort
+prop   8  Cancel
+prop   1  Delete Task
+prop   1  Delete all history
+prop   2  Copy Code
+expr   1 (+prop 0)  Show more
+expr   1 (+prop 0)  See more
+prop   2  Compact Task
+expr   1 (+prop 0)  Response
+expr   1 (+prop 0)  Refresh
+prop   1  Export
+prop   3  Done
+expr   1 (+prop 1)  Next
+prop   1  Previous
+prop   1  Close
+prop   1  Remove
+prop   2  Enabled
+prop   1  Disabled
+expr   3 (+prop 1)  None
+expr   2 (+prop 0)  Thinking
+expr   1 (+prop 1)  Thinking...
+expr   3 (+prop 3)  Loading...
+prop   1  Plan Mode
+prop   1  Act Mode
+pair   3  ?"Yes":"No"
+pair   1  ?"Copied":"Copy"
+bare  20  You must provide a valid API key or choose a different provider.
+bare   5  This file is outside of your workspace
+bare   3  This is outside of your workspace
+
+=== LEFT IN ENGLISH - needs manual review (8) ===
+  1 remaining,   0 in safe positions  ->  Browser
+  1 remaining,   0 in safe positions  ->  Files
+  1 remaining,   0 in safe positions  ->  Images
+  1 remaining,   0 in safe positions  ->  Approve
+  1 remaining,   0 in safe positions  ->  Reject
+  1 remaining,   0 in safe positions  ->  Retry
+  3 remaining,   2 in safe positions  ->  Copy
+  1 remaining,   0 in safe positions  ->  Custom

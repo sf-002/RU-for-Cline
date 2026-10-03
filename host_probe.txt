@@ -1,0 +1,113 @@
+host length: 26291208
+     0  wants to
+     0  Cline read
+     0  Cline is
+     2  would you like
+    97  The user
+   158  please
+   692  Failed to
+   100  Unable to
+    94  not allowed
+     6  Auto-approve
+     6  auto-approve
+  3255  task
+   263  Checkpoint
+     0  API Request
+
+=== strings with "wants to" or starting with Cline (first 40) ===
+  active sessions from other Cline clients
+  ||i<=0?r:`${r} from ${i} connected Cline client${i===1?
+  Cline API endpoint
+  Cline Usage-Billing
+  Cline gateway accepts the shared gateway reasoning shape.
+   This can happen immediately after upgrading from a build that wrote an empty hub auth token; run 'cline doctor fix' to stop the old daemon and repair local hub discovery.
+  untracked files on cline checkpoint
+  index on cline checkpoint
+  ,`cline restore transaction ${i}`],{windowsHide:!0});let o=await I$o(t,
+  ,t.slug);if(!(0,Mp.existsSync)(o)||!(0,Mp.statSync)(o).isDirectory())throw Error(`Official Cline plugin 
+  Cline Core SDK for Node Runtime
+  cline checkpoint session=
+  Cline running in self-hosted mode with custom endpoints
+  Unauthorized: Please sign in to Cline before trying again.
+  Anonymous Cline error and usage reporting is enabled, but IDE telemetry is disabled. To enable error and usage reporting for this extension, enable telemetry in IDE settings.
+  [SdkAuthService] Cline OAuth login failed:
+  Adding notebook context to explainWithCline task
+  Adding notebook context to improveWithCline task
+  No Cline account auth token found
+  No Cline account auth token found
+  Error during Cline temp cleanup
+  Compaction is not supported by this runtime yet. Please update Cline and try again.
+  [SdkController] Failed to check Cline free model list:
+  What would you like to delete?
+  Cline Core Version
+  ;throw new Error(`Cline <Language Model API>: Failed to select model: ${r}`)}}getMessages(e,r){return[lT.LanguageModelChatMessage.Assistant(e),...aJu(r)]}approxTokens(e){return Math.ceil((e||
+  );try{if(!r||e!==r){Oe.log(`Cline version changed: ${r} -> ${e}. First run or update detected.`);let i=t.getGlobalStateKey(
+  ),a=a7e();if(i!==a){let o=r?`Cline has been updated to v${e}`:`Welcome to Cline v${e}`;ln.window.showMessage({type:1,message:o})}t.setGlobalState(
+  Migrating custom instructions to global Cline rules...
+  Cline AI Review
+  [Cline Dev] Dev mode activated & dev commands registered
+  Task URI handling timed out waiting for Cline sidebar visibility
+total such strings: 32
+
+=== provider metadata: name:"..." / description:"..." (first 60) ===
+  Remote-config managed runtime integration
+  Respond with a JSON object.
+  Google Generative AI
+  A simple common HTTP client specifically for Google APIs and services.
+  Google APIs Authentication Client Library for Node.js
+  Google Vertex project
+  Google Vertex location
+  Respond with a JSON object.
+  AWS region
+  AWS access key ID
+  AWS secret access key
+  AWS region
+  AWS region
+  AWS region
+  Respond with a JSON object.
+  Africa (Cape Town)
+  Asia Pacific (Hong Kong)
+  Asia Pacific (Taipei)
+  Asia Pacific (Tokyo)
+  Asia Pacific (Seoul)
+  Asia Pacific (Osaka)
+  Asia Pacific (Mumbai)
+  Asia Pacific (Hyderabad)
+  Asia Pacific (Singapore)
+  Asia Pacific (Sydney)
+  Asia Pacific (Jakarta)
+  Asia Pacific (Melbourne)
+  Asia Pacific (Malaysia)
+  Asia Pacific (New Zealand)
+  Asia Pacific (Thailand)
+  aws global region
+  Canada (Central)
+  Canada West (Calgary)
+  Europe (Frankfurt)
+  Europe (Zurich)
+  Europe (Stockholm)
+  Europe (Milan)
+  Europe (Spain)
+  Europe (Ireland)
+  Europe (London)
+  Europe (Paris)
+  Israel (Tel Aviv)
+  Middle East (UAE)
+  Middle East (Bahrain)
+  Mexico (Central)
+  South America (Sao Paulo)
+  US East (N. Virginia)
+  US East (Ohio)
+  US West (N. California)
+  US West (Oregon)
+  aws-cn global region
+  China (Beijing)
+  China (Ningxia)
+  AWS European Sovereign Cloud (Germany)
+  aws-iso global region
+  US ISO East
+  US ISO WEST
+  aws-iso-b global region
+  US ISOB East (Ohio)
+  US ISOB West
+total such strings: 5960

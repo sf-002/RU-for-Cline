@@ -1,0 +1,81 @@
+english strings inside children/description arrays: 80
+  1  ) with usage-based billing.
+  2  )&&k.jsx(
+  1  ),children:s}),k.jsx(
+  2  ),slot:
+  1  , which is outside the current workspace. Cline reads and edits files and runs commands there.
+  1  ,{}),k.jsx(
+  5  ,{children:
+  2  ,{children:[
+  1  ,{children:g}),p,h&&k.jsxs(
+  1  ,{children:re},re)),R.conflictingFiles.length>3&&k.jsxs(
+ 45  ,{className:
+  3  ,{className:Ui(
+  1  ,{href:
+  1  ,{strokeWidth:
+ 45  ,children:
+  3  ,children:[
+  1  ,children:[B,
+  1  ,children:[r.modelId,
+  1  ,children:_.branch}),
+  1  ,children:e.title}),k.jsx(
+  1  ,children:G===
+  1  ,children:ne()}),
+  1  ,children:o}),k.jsx(dn,{appearance:
+  1  ,children:oe.serverName}),
+  1  ,children:t?
+  1  ,children:t}),e&&k.jsx(
+  1  ,className:
+  1  ,cy:
+  1  ,DZn[t],
+  1  ,e.totalCost?.toFixed(4)??0]}),o?k.jsx(cZe,{className:
+  1  ,e]}),e>0&&t>0&&k.jsx(
+  1  ,f.map(b=>b.name).join(
+  1  ,fill:
+  5  ,href:
+  1  ,i.contextWindow?.toLocaleString()]}),
+  1  ,i.toolName,
+ 10  ,k.jsx(
+  4  ,k.jsx(ya,{className:
+  6  ,k.jsx(ya,{href:
+  1  ,k.jsxs(
+  1  ,n.toFixed(2),
+  1  ,n<a.length-1&&k.jsx(
+  1  ,ne.readLineStart,ne.readLineEnd!=null?`-${ne.readLineEnd}`:
+  1  ,o,k.jsx(
+  2  ,onChange:r=>a(
+  1  ,onClick:Y,children:
+  2  ,r),providerName:
+  1  ,R.conflictingFiles.length-3,
+  1  ,r.toLocaleString()]}):k.jsxs(
+  2  ,rel:
+  2  ,signupUrl:
+  2  ,target:
+  1  ,type:
+  1  ,value:oe,children:oe},oe)),k.jsx(wa,{value:
+  1  ,value:ue,children:ue},ue)),k.jsx(wa,{value:
+  1  ,value:v,children:v},v)),a&&k.jsx(wa,{value:
+  1  ,variant:
+  1  ,x.branch||
+  1  .clineignore
+  1  /.clinerules/hooks/
+  1  /million tokens (
+  1  [Wins]
+  1  ]}),g&&k.jsx(
+  1  ]}),g.map(oe=>k.jsx(wa,{className:
+  1  ]}),k.jsx(
+  1  ]}),p.map(v=>k.jsx(wa,{className:
+ 14  }),k.jsx(
+  4  }),k.jsx(Ch,{
+  1  }),k.jsx(qOe,{inputValue:r,isActive:a&&n?.ask===
+  3  }),k.jsx(wa,{value:
+  2  }),m.map(ue=>k.jsx(wa,{className:
+  1  }),n&&!n.startsWith(
+  1  }),r&&k.jsx(
+  1  }),r.map(s=>k.jsx(wa,{className:
+  1  }),t>0&&k.jsxs(
+  1  }),Yf(n??
+  1  }):k.jsx(yZe,{className:
+  1  ” is not in the current list.
+  1  🎉 New in v
+  1  📋 Output is being logged to:

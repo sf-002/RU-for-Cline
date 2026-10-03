@@ -1,0 +1,24 @@
+NOT FOUND: RECENT
+==== View All ====
+:"uppercase"},children:"Recent"})]}),t.filter(r=>r.ts&&r.task).length>0&&k.jsxs("button",{"aria-label":"Показать всю историю",className:"history-view-all-btn",onClick:()=>e(),type:"button",children:["View All",k.jsx("span",{className:"codicon codicon-chevron-right"})]})]}),k.jsx("div",{className:"px-4",children:t.filter(r=>r.ts&&r.task).length>0?t.filter(r=>r.ts&&r.task).slice(0,3).map(r=>k.jsxs("div",{className:"history-preview-item",onClick:()=>n(r.id),children:[k.jsxs("div",{className:"history-task-content",chil
+
+==== Type your task here ====
+t qe=me.current,Se=ue.current;me.current=le,ue.current=re,!(re!==Se||le<=qe)&&(oe.current=!1,J(),setTimeout(()=>{oe.current||ce()},50))},[le,re,J,ce,oe]);const Ce=U.useMemo(()=>V?"Type a message...":"Type your task here...",[V]);return k.jsxs(Lhn,{isHidden:e,children:[k.jsxs("div",{className:"flex flex-col flex-1 overflow-hidden",children:[a&&k.jsx(whn,{}),V?k.jsx(Fjn,{apiMetrics:K,lastApiReqTotalTokens:F,messageHandlers:j,selectedModelInfo:{supportsPromptCache:Y.supportsPromptCache,supportsImages:Y.supportsImages|
+
+==== Auto-approve ====
+,u.stopPropagation(),n(d=>!d))},ref:a,tabIndex:0,children:[k.jsxs("div",{className:"flex flex-nowrap items-center gap-1 min-w-0 flex-1",children:[k.jsx("span",{className:"whitespace-nowrap",children:"Auto-approve:"}),r()]}),i?k.jsx(wp,{size:16}):k.jsx(rh,{size:16})]}),k.jsx(Ehn,{ACTION_METADATA:C8e,buttonRef:a,isVisible:i,setIsVisible:n})]})},hr={api_req_failed:{sendingDisabled:!0,enableButtons:!0,primaryText:"Повторить",secondaryText:"Начать новую задачу",primaryAction:"retry",secondaryAction:"new_task"},mistake_l
+
+==== Rules allow you to ====
+kflows"?"Your organization manages some workflows":"Your organization manages some skills"})]}):null,k.jsx("div",{className:"text-xs text-description mb-4",children:G==="rules"?k.jsxs("p",{children:["Rules allow you to provide Cline with system-level guidance. Think of them as a persistent way to include context and preferences for your projects or globally for every conversation."," ",k.jsx(ya,{className:"text-xs",href:"https://docs.cline.bot/features/cline-rules",style:{display:"inline",fontSize:"inherit"},childr
+
+==== Global Rules ====
+1,isRemote:!0,rulePath:pe.name,ruleType:"cline",toggleRule:(ze,Te)=>pe.toggle(Te)},pe.name)})})]}),k.jsxs("div",{className:"mb-3",children:[k.jsx("div",{className:"text-sm font-normal mb-2",children:"Global Rules"}),k.jsx(qx,{isGlobal:!0,listGap:"small",rules:Y,ruleType:"cline",showNewRule:!0,showNoRules:!1,toggleRule:(pe,Me)=>Oe(!0,pe,Me)})]}),k.jsxs("div",{className:"-mb-2.5",children:[k.jsx("div",{className:"text-sm font-normal mb-2",children:"Workspace Rules"}),k.jsx(qx,{isGlobal:!1,listGap:"small",rules:Z,rule
+
+==== Workspace Rules ====
+l",rules:Y,ruleType:"cline",showNewRule:!0,showNoRules:!1,toggleRule:(pe,Me)=>Oe(!0,pe,Me)})]}),k.jsxs("div",{className:"-mb-2.5",children:[k.jsx("div",{className:"text-sm font-normal mb-2",children:"Workspace Rules"}),k.jsx(qx,{isGlobal:!1,listGap:"small",rules:Z,ruleType:"cline",showNewRule:!1,showNoRules:!1,toggleRule:(pe,Me)=>Oe(!1,pe,Me)}),k.jsx(qx,{isGlobal:!1,listGap:"small",rules:te,ruleType:"cursor",showNewRule:!1,showNoRules:!1,toggleRule:$e}),k.jsx(qx,{isGlobal:!1,listGap:"small",rules:ie,ruleType:"winds
+
+==== New rule file ====
+md, .txt, or no extension)":t==="skill"?"skill-name (letters, numbers, dashes, underscores)":"rule-name (.md, .txt, or no extension)":t==="workflow"?"New workflow file...":t==="skill"?"New skill...":"New rule file...",ref:l,type:"text",value:a?o:""}),k.jsx(Yn,{"aria-label":a?t==="skill"?"Create skill":"Create file":t==="workflow"?"New workflow file...":t==="skill"?"New skill...":"New rule file...",className:"mx-0.5",onClick:b=>{b.stopPropagation(),a||r(!0)},size:"icon",title:a?t==="skill"?"Create skill":"Create fil
+
+NOT FOUND: Recent Tasks
+NOT FOUND: recentTasks

@@ -1,0 +1,280 @@
+### How will you use Cline?
+    E="free",e.POWER="power",e.BYOK="byok",e))(eu||{});const dM={0:{title:"How will you use Cline?",description:"Select an option below to get started.",buttons:[{t
+### Select an option below to get started.
+    ,e))(eu||{});const dM={0:{title:"How will you use Cline?",description:"Select an option below to get started.",buttons:[{text:"Continue",action:"next",variant:"
+### Absolutely Free
+    reUrl:"https://docs.cline.bot/getting-started/clinepass"},W9e=[{title:"Absolutely Free",description:"Get started at no cost",type:"free"},{title:"Frontier Model
+### ClinePass
+    ellow)]"}),k.jsx("span",{className:"text-base font-semibold",children:"ClinePass"})]}),t?k.jsxs(k.Fragment,{children:[k.jsx("p",{className:"m-0 text-sm text-des
+### Frontier Model
+    lutely Free",description:"Get started at no cost",type:"free"},{title:"Frontier Model",description:"Claude, GPT Codex, Gemini, etc.",type:"power"},{title:"Bring
+### Bring my own API key
+    l",description:"Claude, GPT Codex, Gemini, etc.",type:"power"},{title:"Bring my own API key",description:"Use Cline with your provider of choice",type:"byok"}];
+### Login to Cline
+    ed.",buttons:[{text:"Continue",action:"next",variant:"default"},{text:"Login to Cline",action:"signin",variant:"secondary"}]},"cline-pass":{title:"Select a Clin
+### Create my Account
+    ary"}]},"cline-pass":{title:"Select a ClinePass model",buttons:[{text:"Create my Account",action:"signup",variant:"default"},{text:"Back",action:"back",variant:
+### Continue
+    ",description:"Select an option below to get started.",buttons:[{text:"Continue",action:"next",variant:"default"},{text:"Login to Cline",action:"signin",variant
+### Back
+    s:[{text:"Create my Account",action:"signup",variant:"default"},{text:"Back",action:"back",variant:"secondary"}]},free:{title:"Select a free model",buttons:[{te
+### Cancel
+    ",disabled:u,onClick:e,style:{marginTop:"8px"},type:"button",children:"Cancel"}),i&&k.jsx(dn,{appearance:"secondary",onClick:()=>{Qh.openMcpSettings(Zt.create({
+### Save
+    :"reject"},tool_save:{sendingDisabled:!1,enableButtons:!0,primaryText:"Save",secondaryText:"Reject",primaryAction:"approve",secondaryAction:"reject"},command:{s
+### Approve
+    _task"},tool_approve:{sendingDisabled:!1,enableButtons:!0,primaryText:"Approve",secondaryText:"Reject",primaryAction:"approve",secondaryAction:"reject"},tool_sa
+### Reject
+    ndingDisabled:!1,enableButtons:!0,primaryText:"Approve",secondaryText:"Reject",primaryAction:"approve",secondaryAction:"reject"},tool_save:{sendingDisabled:!1,e
+### Retry
+    },hr={api_req_failed:{sendingDisabled:!0,enableButtons:!0,primaryText:"Retry",secondaryText:"Start New Task",primaryAction:"retry",secondaryAction:"new_task"},m
+### New Task
+    avigateToChat:a}=Mi(),r=U.useMemo(()=>[{id:"chat",name:"Chat",tooltip:"New Task",icon:gO,navigate:()=>{Zo.trackIntent(oE.create({action:"new_task_clicked",sourc
+### Start New Task
+    sendingDisabled:!0,enableButtons:!0,primaryText:"Retry",secondaryText:"Start New Task",primaryAction:"retry",secondaryAction:"new_task"},mistake_limit_reached:{
+### Resume Task
+    :void 0},resume_task:{sendingDisabled:!1,enableButtons:!0,primaryText:"Resume Task",secondaryText:void 0,primaryAction:"proceed",secondaryAction:void 0},resume_
+### Delete
+    Left:"ArrowLeft",Up:"ArrowUp",Right:"ArrowRight",Down:"ArrowDown",Del:"Delete",Win:"OS",Menu:"ContextMenu",Apps:"ContextMenu",Scroll:"ScrollLock",MozPrintableKe
+### Delete Task
+    ,{className:Ui("flex items-center",t),children:k.jsx(Yn,{"aria-label":"Delete Task",disabled:!e,onClick:n=>{n.preventDefault(),n.stopPropagation(),e&&mo.deleteT
+### Delete all history
+    ngth:""," Selected",oe>0?` (${fW(oe)})`:""]}):k.jsxs(Yn,{"aria-label":"Delete all history",className:"w-full",disabled:p||i.length===0&&T.length===0,onClick:te,
+### Clear
+    llLock",MozPrintableKey:"Unidentified"},ori={8:"Backspace",9:"Tab",12:"Clear",13:"Enter",16:"Shift",17:"Control",18:"Alt",19:"Pause",20:"CapsLock",27:"Escape",3
+### Clear search
+    acity-80 mt-0.5 !text-sm",slot:"start"}),r&&k.jsx("div",{"aria-label":"Clear search",className:"input-icon-button codicon codicon-close flex justify-center item
+### Copy
+    -in code",onClick:o,size:"sm",variant:"secondary",children:t?"Copied":"Copy"})]}):null]})},JHe=e=>{const{environment:t,...i}=e,n=t?mO(t):"var(--vscode-icon-fore
+### Copy Code
+    ing mermaid diagram..."}),k.jsx(C$n,{children:k.jsx(A$n,{"aria-label":"Copy Code",onClick:r,title:"Copy Code",children:k.jsx("span",{className:"codicon codicon-
+### Copy failed
+    s).then(()=>{r(!0),setTimeout(()=>r(!1),Zbn)}).catch(l=>console.error("Copy failed",l))},[e,t]);return k.jsx(Yn,{"aria-label":a?"Copied":n||"Copy",className:Ui(
+### Edit
+    ",icon:"codicon-search"},{id:"editFiles",label:"Edit files",shortName:"Edit",icon:"codicon-edit"},{id:"executeSafeCommands",label:"Execute commands",shortName:"
+### Edit Configuration
+    ",g)})},style:{width:"100%",marginBottom:"5px",marginTop:15},children:"Edit Configuration"})]})]})};var QMe;const tbt=Object.freeze({status:"aborted"});function
+### History
+    ustomize",tooltip:"Customize",icon:hhe,navigate:n},{id:"history",name:"History",tooltip:"History",icon:Kst,navigate:e},{id:"account",name:"Account",tooltip:"Acc
+### Settings
+    :"Account",tooltip:"Account",icon:het,navigate:i},{id:"settings",name:"Settings",tooltip:"Settings",icon:fhe,navigate:t}],[i,a,e,n,t]);return k.jsx("nav",{class
+### Chat
+    Marketplace:n,navigateToChat:a}=Mi(),r=U.useMemo(()=>[{id:"chat",name:"Chat",tooltip:"New Task",icon:gO,navigate:()=>{Zo.trackIntent(oE.create({action:"new_task
+### MCP Servers
+    xDirection:"column"},children:[k.jsx(fO,{environment:a,onDone:e,title:"MCP Servers"}),k.jsxs("div",{style:{flex:1,overflow:"auto"},children:[k.jsxs("div",{style
+### MCP
+    ,icon:"codicon-globe"},{id:"useMcp",label:"Use MCP servers",shortName:"MCP",icon:"codicon-server"}],Chn=({style:e})=>{const{autoApprovalSettings:t}=Mi(),[i,n]=U
+### Tools
+    s&&t.add("Images"),e.supportsPromptCache&&t.add("Prompt Cache"),t.add("Tools"),Array.from(t)}function kZn(e){return e?e<1?"Instant":e<2?"Fast":e>5?"Slow":"Avera
+### Resources
+    equests"]})]}),k.jsx("h3",{className:"text-md font-semibold",children:"Resources"}),k.jsxs("p",{children:[k.jsx(ya,{href:"https://docs.cline.bot/",children:"Doc
+### Marketplace
+    ),YJn=[{type:"installed",label:"Installed"},{type:"marketplace",label:"Marketplace"}];function nZ(e){return R9t.some(t=>t.type===e)}function Nm(e){return`${e.ty
+### Plan
+    l gap-1",hidden:pe===null,side:"top",children:[`In ${pe==="act"?"Act":"Plan"}  mode, Cline will ${pe==="act"?"complete the task immediately":"gather information
+### Act
+    lex-col gap-1",hidden:pe===null,side:"top",children:[`In ${pe==="act"?"Act":"Plan"}  mode, Cline will ${pe==="act"?"complete the task immediately":"gather infor
+### Plan Mode
+    an",onClick:()=>o("plan"),style:{opacity:1,cursor:"pointer"},children:"Plan Mode"}),k.jsx(ww,{disabled:r==="act",isActive:r==="act",onClick:()=>o("act"),style:{
+### Act Mode
+    act",onClick:()=>o("act"),style:{opacity:1,cursor:"pointer"},children:"Act Mode"})]}),k.jsx("div",{className:"-mb-3",children:k.jsx(Qre,{currentMode:r,initialMo
+### Proceed While Running
+    ect"},command_output:{sendingDisabled:!1,enableButtons:!0,primaryText:"Proceed While Running",secondaryText:void 0,primaryAction:"proceed",secondaryAction:void 
+### Show more
+    r-gradient(to left, var(--vscode-editor-background), transparent)"}}),"Show more"]})]})}function e9e({message:e,isLast:t,lastModifiedMessage:i}){const[n,a]=U.us
+### See more
+    ackground":i}),onClick:()=>u(!l),variant:"link",children:l?"See less":"See more"})]})]})},t)});mDt.displayName="ModelDescriptionMarkdown";const DN=e=>new Intl.N
+### Send
+    yield"],l=["true","false","Some","None","Ok","Err"],u=["drop ","Copy","Send","Sized","Sync","Drop","Fn","FnMut","FnOnce","ToOwned","Clone","Debug","PartialEq","
+### Type a message...
+    )=>{oe.current||ce()},50))},[le,re,J,ce,oe]);const Ce=U.useMemo(()=>V?"Type a message...":"Type your task here...",[V]);return k.jsxs(Lhn,{isHidden:e,children:[
+### Thinking
+    e:e=!1,reasoningContent:t,isVisible:i,isExpanded:n,onToggle:a,title:r="Thinking",isStreaming:o=!1,showChevron:s=!0})=>{const l=U.useRef(null),[u,d]=U.useState(!
+### Thinking...
+    00%] bg-clip-text text-transparent text-[13px] leading-none",children:"Thinking..."})})})),m==="error"&&k.jsx(c8,{apiReqStreamingFailedMessage:t,apiRequestFaile
+### Loading
+    llback(),this.paused&&(this.paused=!1),this.setAttribute("aria-label","Loading"),this.setAttribute("aria-live","assertive"),this.setAttribute("role","alert")}at
+### Loading...
+    jsx("div",{className:"text-(--vscode-descriptionForeground)",children:"Loading..."})}):k.jsxs(k.Fragment,{children:[a==="usage"&&(t.length>0?k.jsxs(z5e,{childre
+### Error
+    }const Gsi=new Set(["Array","ArrayBuffer","Boolean","DataView","Date","Error","EvalError","Float32Array","Float64Array","Function","Int8Array","Int16Array","Int
+### Info
+    M={$type:"Group",icon:"icon",id:"id",in:"in",title:"title"},R8={$type:"Info",accDescr:"accDescr",accTitle:"accTitle",title:"title"};function vIa(e){return ml.is
+### Completed
+    dOutputRow";const wP={executing:"Running",pending:"Pending",completed:"Completed",skipped:"Skipped"};function Pqn(e,t,i){return e?wP.executing:t?wP.pending:i?wP
+### Running
+    al."})]})]})});ADt.displayName="CommandOutputRow";const wP={executing:"Running",pending:"Pending",completed:"Completed",skipped:"Skipped"};function Pqn(e,t,i){r
+### Context Window
+    le:{width:"100%"}})}),k.jsx("div",{className:"font-semibold",children:"Context Window"}),k.jsx(os,{className:"w-full pointer-events-none",disabled:!0,title:"Not
+### Context Window Size
+    (vr,{initialValue:oM(L?.contextWindow),onChange:oe=>Z("contextWindow","Context Window Size",oe),children:k.jsx("span",{style:{fontWeight:500},children:"Context 
+### Max Output Tokens
+    n:[k.jsx(vr,{initialValue:oM(L?.maxTokens),onChange:oe=>Z("maxTokens","Max Output Tokens",oe),placeholder:"not set",children:k.jsx("span",{style:{fontWeight:500
+### Reasoning Effort
+    t}));D$.displayName=fDt.displayName;const aFn=({currentMode:e,label:t="Reasoning Effort",description:i="Higher effort improves depth, but uses more tokens.",all
+### Temperature
+    .jsx(vr,{initialValue:oM(L?.temperature),onChange:oe=>Z("temperature","Temperature",oe),placeholder:"not set",children:k.jsx("span",{style:{fontWeight:500},chil
+### API Provider
+    "api-provider",children:k.jsx("span",{style:{fontWeight:500},children:"API Provider"})}),k.jsx("i",{className:"codicon codicon-lock text-description text-sm"})]
+### API Key
+    ue:E,children:[k.jsx(V8,{checked:E==="apikey",value:"apikey",children:"API Key"}),k.jsx(V8,{checked:E==="profile",value:"profile",children:"AWS Profile"}),k.jsx
+### Base URL
+    0},type:"text",children:k.jsx("span",{style:{fontWeight:500},children:"Base URL"})}),k.jsx(ic,{initialValue:n?.difyApiKey||"",onChange:s=>{a("difyApiKey",s)},pr
+### Model
+    te"}),k.jsx(Ch,{"cell-type":"columnheader","grid-column":"2",children:"Model"}),k.jsx(Ch,{"cell-type":"columnheader","grid-column":"3",children:"Credits Used"})
+### Model ID
+     model ID...",children:k.jsx("span",{className:"font-medium",children:"Model ID"})},`custom-${v}`),k.jsx("label",{htmlFor:"bedrock-base-model-dropdown",children
+### Model Configuration
+    jsx("span",{style:{fontWeight:700,textTransform:"uppercase"},children:"Model Configuration"})]}),p&&k.jsxs(k.Fragment,{children:[k.jsx(Ml,{checked:F.current[n].
+### OpenAI Compatible
+    ength,onApiKeyChange:oe=>{C.current=oe,ee(E.current,oe)},providerName:"OpenAI Compatible",write:u});return k.jsxs("div",{children:[k.jsxs(ar,{children:[k.jsx(Q9
+### Ollama
+    y,handleApiKeyChange:v}=w2({apiKeyLength:r?.apiKeyLength,providerName:"Ollama",write:o}),x=U.useCallback(T=>{o({baseUrl:T}).catch(S=>console.error("Failed to up
+### LM Studio
+    odelsSourceUrl:"http://localhost:11434/api/tags"},{id:"lmstudio",name:"LM Studio",description:"Local model inference with LM Studio",family:"openai-compatible",
+### OpenRouter
+    andleApiKeyChange:d}=w2({apiKeyLength:l,onApiKeyChange:s,providerName:"OpenRouter",write:r});return U.useEffect(()=>{s(n?.openRouterApiKey||"")},[n?.openRouterA
+### Anthropic
+    v,handleApiKeyChange:x}=w2({apiKeyLength:o?.apiKeyLength,providerName:"Anthropic",write:s}),b=d_(f),_=eS(r.reasoningEffort,r.thinkingBudgetTokens).effort??"none
+### Use custom base URL
+    )},[]),[n,s,l]}const M_=({initialValue:e,onChange:t,onClear:i,label:n="Use custom base URL",placeholder:a="Default: https://api.example.com",disabled:r=!1,showL
+### Checkpoints
+    tEnabled",settingKey:"backgroundEditEnabled"},{id:"checkpoints",label:"Checkpoints",description:"Save progress at key points for easy rollback",stateKey:"enable
+### Advanced
+    ,{onClick:()=>l(!s),children:[k.jsx(KBn,{$isExpanded:s,children:"▶"}),"Advanced"]}),k.jsx(YBn,{$isExpanded:s,children:k.jsxs(QBn,{children:[k.jsxs(iM,{children:
+### Debug
+    ,"Send","Sized","Sync","Drop","Fn","FnMut","FnOnce","ToOwned","Clone","Debug","PartialEq","PartialOrd","Eq","Ord","AsRef","AsMut","Into","From","Default","Itera
+### About
+    }={user:null,activeOrganization:null})=>!e||!ZTt(e)},{id:"about",name:"About",tooltipText:"About Cline",headerText:"About",icon:dhe},{id:"debug",name:"Debug",to
+### Account
+    dren:[k.jsx(fO,{environment:a,onDone:e,showEnvironmentSuffix:!0,title:"Account"}),k.jsx("div",{className:"grow flex flex-col px-5 overflow-y-auto",children:t?.u
+### Usage
+    ze:"var(--vscode-font-size)",lineHeight:1.3},children:[u?`${u} usage`:"Usage",":"," ",k.jsxs("span",{className:"font-bold",children:["$",n.toFixed(2)," / $",i.t
+### Terminal
+    =S.top-w.top)}}},[n]);const f={[zn.Problems]:"Problems",[zn.Terminal]:"Terminal",[zn.URL]:"Paste URL to fetch contents",[zn.NoResults]:"No results found"},g=U.u
+### Browser
+    M,{children:m?"Yes":"No"})]}),k.jsxs(iM,{children:[k.jsx(nM,{children:"Browser"}),k.jsx(aM,{children:f?"Yes":"No"})]}),!d&&k.jsxs(iM,{children:[k.jsx(nM,{childr
+### Files
+    e3)},qi=St=>{St.preventDefault(),A(!0),St.dataTransfer.types.includes("Files")&&Array.from(St.dataTransfer.items).some(kt=>kt.kind==="file"?kt.type.split("/")[0
+### Images
+    hildren:k.jsxs(QBn,{children:[k.jsxs(iM,{children:[k.jsx(nM,{children:"Images"}),k.jsx(aM,{children:m?"Yes":"No"})]}),k.jsxs(iM,{children:[k.jsx(nM,{children:"B
+### Audio
+    Server","GSMPIN","FileIO","Bridge","Serial","EEPROM","Stream","Mouse","Audio","Servo","File","Task","GPRS","WiFi","Wire","TFT","GSM","SPI","SD"],_hints:["setup"
+### Add Files & Images
+    k.jsx(ZKe,{size:12})})})})]}),k.jsxs(ar,{children:[k.jsx(br,{children:"Add Files & Images"}),k.jsx(kr,{children:k.jsx(dn,{appearance:"icon","aria-label":"Add Fi
+### Search and select a model...
+    >{m(F.target?.value.toLowerCase()||""),g(!0)},onKeyDown:D,placeholder:"Search and select a model...",role:"combobox",style:{width:"100%",zIndex:a1e,position:"re
+### Create file
+    t",value:a?o:""}),k.jsx(Yn,{"aria-label":a?t==="skill"?"Create skill":"Create file":t==="workflow"?"New workflow file...":t==="skill"?"New skill...":"New rule f
+### Create skill
+    ref:l,type:"text",value:a?o:""}),k.jsx(Yn,{"aria-label":a?t==="skill"?"Create skill":"Create file":t==="workflow"?"New workflow file...":t==="skill"?"New skill.
+### Rules
+    ldren:[k.jsx(QD,{isActive:G==="rules",onClick:()=>j("rules"),children:"Rules"}),s&&k.jsx(QD,{isActive:G==="hooks",onClick:()=>j("hooks"),children:"Hooks"}),k.js
+### Workflows
+    .jsx(QD,{isActive:G==="workflows",onClick:()=>j("workflows"),children:"Workflows"})]})}),G==="rules"&&Ce||G==="workflows"&&qe||G==="skills"&&Se?k.jsxs("div",{cl
+### Skills
+    s"}),k.jsx(QD,{isActive:G==="skills",onClick:()=>j("skills"),children:"Skills"}),k.jsx(QD,{isActive:G==="workflows",onClick:()=>j("workflows"),children:"Workflo
+### Delete Server
+    Yn,{disabled:u,onClick:w=>{w.stopPropagation(),b()},size:"icon",title:"Delete Server",variant:"icon",children:k.jsx(J_,{})}),k.jsxs(ar,{children:[k.jsx(kr,{asCh
+### Console Logs
+    ce-nowrap overflow-hidden text-ellipsis mr-2",children:a?"User Edits":"Console Logs"})]}):k.jsxs("span",{className:"whitespace-nowrap overflow-hidden text-ellip
+### Learn more
+    mization/skills",style:{display:"inline",fontSize:"inherit"},children:"Learn more"})]})]}),qe&&k.jsxs("div",{className:"mb-3",children:[k.jsx("div",{className:"
+### Enter API Key...
+    =({initialValue:e,onChange:t,providerName:i,signupUrl:n,placeholder:a="Enter API Key...",helpText:r,label:o=`${i} API Key`})=>{const[s,l]=U.useState(e),u=U.useR
+### You must provide a valid API key or choose a different provider.
+    ModelSelector:s}=lc(t,e);switch(i){case"anthropic":if(!t.apiKey)return"You must provide a valid API key or choose a different provider.";break;case"bedrock":if(
+### This file is outside of your workspace
+    "}),ne.operationIsLocatedInWorkspace===!1&&le("sign-out","yellow",-90,"This file is outside of your workspace"),k.jsx("span",{style:{fontWeight:"bold"},children
+### This is outside of your workspace
+    d"),ne.operationIsLocatedInWorkspace===!1&&le("sign-out","yellow",-90,"This is outside of your workspace"),k.jsx("span",{style:{fontWeight:"bold"},children:e.ty
+### Compact Task
+    :e,className:t})=>k.jsxs(ar,{children:[k.jsx(br,{side:"left",children:"Compact Task"}),k.jsx(kr,{className:Ui("flex items-center",t),children:k.jsx(Yn,{"aria-la
+### Completion summary
+    ,taskId:xs(Ee()).describe("Task ID"),summary:xs(Ee().min(1)).describe("Completion summary"),reason:xs(Ee().min(1)).describe("Blocking reason")}).superRefine((e,
+### Response
+    e:"header-icon",size:16}):k.jsx(rh,{className:"header-icon",size:16}),"Response"]}),k.jsx(kV,{style:{minWidth:n?"auto":"0",visibility:n?"visible":"hidden"},chil
+### Enabled
+    peof t=="boolean"?t?k.jsx("span",{className:"text-green-500",children:"Enabled"}):k.jsx("span",{className:"text-description",children:"Disabled"}):i&&typeof t==
+### Disabled
+    ldren:"Enabled"}):k.jsx("span",{className:"text-description",children:"Disabled"}):i&&typeof t=="string"&&t.length>0?k.jsx("span",{className:"font-mono text-xs"
+### Configure
+    .jsx(ww,{isActive:o==="configure",onClick:()=>l("configure"),children:"Configure"})]}),k.jsxs("div",{style:{width:"100%"},children:[r&&o==="addRemote"&&k.jsx(eb
+### Default
+    ug","PartialEq","PartialOrd","Eq","Ord","AsRef","AsMut","Into","From","Default","Iterator","Extend","IntoIterator","DoubleEndedIterator","ExactSizeIterator","Sl
+### Custom
+    -w-full",value:ue,children:ue},ue)),k.jsx(wa,{value:"custom",children:"Custom"})]},`bedrock-model-${y?"custom":d}-${m.length}`)}),y&&k.jsxs("div",{children:[k.j
+### None
+    ubAction.id)));return h.length===0?k.jsx("span",{className:u,children:"None"}):k.jsx("span",{className:u,children:h.map((m,f)=>k.jsxs("span",{children:[m?.short
+### Close
+    x(Gv,{className:"size-2"}),k.jsx("span",{className:"sr-only",children:"Close"})]})]})]}));PPt.displayName=CPt.displayName;const dKn=U.forwardRef(({className:e,.
+### Done
+    en:[r," environment"]})]}),k.jsx(Yn,{size:"header",onClick:t,children:"Done"})]})},dw=({href:e,children:t,...i})=>k.jsx("a",{href:e,style:{textDecoration:"none"
+### Next
+    ),k.jsx(dn,{disabled:y===g.length-1||f,onClick:()=>v(B=>B+1),children:"Next"})]})]})]}));return U.useEffect(()=>{const B=s.current===0;i&&P!==0&&P!==1/0&&P!==s.
+### Previous
+    ,children:[k.jsx(dn,{disabled:y===0||f,onClick:()=>v(B=>B-1),children:"Previous"}),k.jsx(dn,{disabled:y===g.length-1||f,onClick:()=>v(B=>B+1),children:"Next"})]
+### Start
+    diagram data store",aliases:["data-store"],handler:FOt},{semanticName:"Start",name:"Circle",shortName:"circle",description:"Starting point",aliases:["circ"],han
+### Stop
+    pezoid"],internalAliases:["inv_trapezoid"],handler:eRt},{semanticName:"Stop",name:"Double Circle",shortName:"dbl-circ",description:"Represents a stop point",ali
+### Pause
+    ce",9:"Tab",12:"Clear",13:"Enter",16:"Shift",17:"Control",18:"Alt",19:"Pause",20:"CapsLock",27:"Escape",32:" ",33:"PageUp",34:"PageDown",35:"End",36:"Home",37:"
+### Abort
+    10px",fontSize:"12px",cursor:"pointer",fontFamily:"inherit"},children:"Abort"})]}),l&&i.error&&i.error.type==="timeout"&&k.jsx("div",{style:{padding:"12px",bord
+### Task
+    O","Bridge","Serial","EEPROM","Stream","Mouse","Audio","Servo","File","Task","GPRS","WiFi","Wire","TFT","GSM","SPI","SD"],_hints:["setup","loop","runShellComman
+### New
+    x/minimax-m2.5",name:"MiniMax: MiniMax M2.5",score:90,latency:2,badge:"New",info:{contextWindow:192e3,supportsImages:!1,supportsPromptCache:!0,inputPrice:0,outp
+### Select
+    ble:!0}),ixn=[" ","Enter","ArrowUp","ArrowDown"],nxn=[" ","Enter"],Mw="Select",[Pq,Nq,axn]=sSt(Mw),[i3,fBa]=ag(Mw,[axn,H6]),G0e=H6(),[rxn,Xv]=i3(Mw),[oxn,sxn]=i
+### Update
+    );if(i===-1)return;const n=e.match(Jm.FILE_PATTERN),a={action:n?.[1]??"Update",path:n?.[2]?.trim()??t??"",lines:[],additions:0,deletions:0},r=e.substring(i+Jm.S
+### Refresh
+    tton-foreground, #fff)",minWidth:0,margin:0},children:r?"Refreshing…":"Refresh"})]}),T?k.jsxs("div",{className:"text-[11px] text-(--vscode-descriptionForeground
+### Export
+    -2 flex text-description",children:[fW(e.size),k.jsx(Yn,{"aria-label":"Export",className:"m-0 p-0",onClick:h=>{h.stopPropagation(),mo.exportTaskWithId(nn.create
+### Set
+    p","Number","Object","Promise","RangeError","ReferenceError","RegExp","Set","SharedArrayBuffer","String","SyntaxError","TypeError","Uint8Array","Uint8ClampedArr
+### Add
+    reaming:!n}}if(t&&e){const i=e.split(` `);return{parsedFiles:[{action:"Add",path:t,lines:i.map(n=>`+ ${n}`),additions:i.length,deletions:0}],isStreaming:!0}}ret
+### Remove
+    }=l?.headers??{};u({headers:qe}).catch(Se=>A("headers",Se))},children:"Remove"})]},ue))})]})})(),r?.azureApiVersion!==void 0?k.jsxs(ar,{children:[k.jsx(Q9,{chil
+### Yes
+    N";Uu[160]="\\_";Uu[8232]="\\L";Uu[8233]="\\P";var MAn=["y","Y","yes","Yes","YES","on","On","ON","n","N","no","No","NO","off","Off","OFF"],EAn=/^[-+]?[0-9_]+(?:
+### No
+    ="\\P";var MAn=["y","Y","yes","Yes","YES","on","On","ON","n","N","no","No","NO","off","Off","OFF"],EAn=/^[-+]?[0-9_]+(?::[0-9_]+)+(?:\.[0-9_]*)?$/;function GEt(
+### Features
+    uration",headerText:"API Configuration",icon:Agt},{id:"features",name:"Features",tooltipText:"Feature Settings",headerText:"Feature Settings",icon:ohe},{id:"ter
+### General
+    Settings",headerText:"Terminal Settings",icon:l2t},{id:"general",name:"General",tooltipText:"General Settings",headerText:"General Settings",icon:yhe},{id:"remo
+### Documentation
+    jsxs("p",{children:[k.jsx(ya,{href:"https://docs.cline.bot/",children:"Documentation"})," • ",k.jsx(ya,{href:"https://cline.bot/",children:"https://cline.bot"})
+### Discord
+    ildren:"X"})," • ",k.jsx(ya,{href:"https://discord.gg/cline",children:"Discord"})," • ",k.jsx(ya,{href:"https://www.reddit.com/r/cline/",children:" r/cline"})]}
+### GitHub
+    ",{children:[k.jsx(ya,{href:"https://github.com/cline/cline",children:"GitHub"})," • ",k.jsx(ya,{href:"https://github.com/cline/cline/issues",children:" Issues"
+### Log out
+    dary",className:"w-full min-[225px]:w-1/2",onClick:()=>Y0i(),children:"Log out"})]}),k.jsx(K9,{className:"w-full my-6"}),k.jsx(Non,{balance:y,creditUrl:T8e(K,"c
+### Sign Out
+    o OpenAI Codex"}),k.jsx(dn,{appearance:"secondary",onClick:v,children:"Sign Out"})]}):k.jsxs("div",{children:[k.jsx("p",{style:{fontSize:"12px",color:"var(--vsc
+### Free
+    ptionForeground); 	margin-bottom: 4px; `,rM=e=>e===void 0?"N/A":e===0?"Free":e<.01?`$${e.toFixed(4)}/M`:e<1?`$${e.toFixed(2)}/M`:`$${e%1===0?e:e.toFixed(2)}/M`,
+### Get Started for Free
+    ance:"primary",className:"w-full mt-1",disabled:o,onClick:u,children:["Get Started for Free",o&&k.jsx("span",{className:"ml-1 animate-spin",children:k.jsx("span
+### Message
+    rmat=e.TraceValues=e.Trace=void 0;var t=Uqt();Object.defineProperty(e,"Message",{enumerable:!0,get:z(function(){return t.Message},"get")}),Object.defineProperty
+### Message body
+    ect:Ee().min(1).describe("Message subject"),body:Ee().min(1).describe("Message body"),taskId:xs(Ee().min(1)).describe("Optional task ID context")});gt({subject:
+### Message subject
+    ().min(1).describe("Recipient agent ID"),subject:Ee().min(1).describe("Message subject"),body:Ee().min(1).describe("Message body"),taskId:xs(Ee().min(1)).descri
+### Comment
+    operation",aliases:["hourglass","collate"],handler:KOt},{semanticName:"Comment",name:"Curly Brace",shortName:"brace",description:"Adds a comment",aliases:["comm
+### Adds a comment
+    manticName:"Comment",name:"Curly Brace",shortName:"brace",description:"Adds a comment",aliases:["comment","brace-l"],handler:NOt},{semanticName:"Comment Right",
+### Blocking reason
+    in(1)).describe("Completion summary"),reason:xs(Ee().min(1)).describe("Blocking reason")}).superRefine((e,t)=>{for(let i of Apn[e.action])e[i]===void 0&&t.addIs
+### Unknown
+    ChildContext();for(var se in Q)if(!(se in O))throw Error(i(108,ee(I)||"Unknown",se));return F({},H,Q)}function SA(I){return I=(I=I.stateNode)&&I.__reactInternal
+### Optional
+    ,type:["Any","Callable","Coroutine","Dict","List","Literal","Generic","Optional","Sequence","Set","Tuple","Type","Union"]},l={className:"meta",begin:/^(>>>|\.\.

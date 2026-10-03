@@ -1,0 +1,233 @@
+filtered UI-ish strings: 232
+  1  (with your permission, of course)
+  1  ,R.yytext),21;case 42:return C.getLogger().trace(
+  1  ,w.yytext),20;case 36:return S.getLogger().trace(
+  1  ── Deployed Models ──
+  1  ── Not Deployed Models ──
+  1  2) install the Google Cloud CLI › configure Application Default Credentials.
+  1  AionLabs: Aion 3.0
+  1  AionLabs: Aion 3.0 Mini
+  2  AionLabs: Aion-2.0
+  1  AionLabs: Aion-3.0
+  1  AionLabs: Aion-3.0-Mini
+  1  Alias for /compact
+  1  Alibaba (China)
+  1  Alibaba Coding Plan (China)
+  1  Anthropic's most intelligent model. Highest level of intelligence and capability.
+  1  Atria Dawn Preview (Atria)
+  1  Auto model (Basic)
+  1  Auto model (Premium)
+  1  Auto model (Standard)
+  1  Client Id is set. To change it, please re-enter the value.
+  1  Client Secret is set. To change it, please re-enter the value.
+  2  CMD/CTRL + Shift + P
+  1  Code a classic Snake game that runs in the browser.
+  1  Cohere: North Mini Code (free)
+  1  Create a beautiful notetaking app with Next.js and Tailwind
+  1  Create a comprehensive implementation plan before coding
+  1  Credential source for Amazon Bedrock requests.
+  1  D.Run (China)
+  1  Deep Research Max Preview (Apr-21-2026)
+  1  Deep Research Preview (Apr-21-2026)
+  1  Determines the markup language of the output.
+  1  Develop a powerful terminal CLI to automate a cool task
+  1  DevPass (LLM Gateway)
+  1  Dify workflow/application provider via AI SDK
+  1  Disclaimer: Prohibited Data Submission
+  1  Dots Studio: Dots3-Note Preview (free)
+  1  Dots3-Note Preview (free)
+  1  ElevenLabs speech recognition model for accurate multilingual transcription
+  1  ElevenLabs speech-to-text and audio services
+  1  Error parsing response:
+  1  Expected a `<!doctype html>` before anything else
+  1  FLUX.1 [schnell]
+  1  FLUX.1 Fill [pro]
+  1  FLUX.2 [flex]
+  1  FLUX.2 [klein] 4B
+  1  FLUX.2 [klein] 9B
+  1  FLUX.2 [max]
+  1  FLUX.2 [pro]
+  1  FLUX1.1 [pro]
+  1  FLUX1.1 [pro] Ultra
+  1  GLiNER2 Privacy Filter PII (Multi)
+  1  Google Cloud project that owns the Vertex AI resources.
+  1  GPT 5.1 Thinking (Fast)
+  1  GPT 5.2 (Fast)
+  1  GPT 5.3 Codex (Fast)
+  1  GPT 5.4 (Fast)
+  1  GPT 5.4 Mini (Fast)
+  1  GPT 5.5 (Fast)
+  1  GPT 5.6 Luna (Fast)
+  1  GPT 5.6 Sol (Fast)
+  1  GPT 5.6 Terra (Fast)
+  1  GPT OSS 120B (Azure)
+  1  GPT OSS 120B (ByteDance)
+  2  GPT OSS 120B (Cerebras)
+  1  GPT OSS 120B (Cloudflare)
+  1  GPT OSS 120B (Databricks)
+  1  GPT OSS 120B (Databricks, EU)
+  1  GPT OSS 120B (Deep Infra)
+  1  GPT OSS 120B (Fireworks AI)
+  2  GPT OSS 120B (Groq)
+  1  GPT OSS 120B (Nebius)
+  1  GPT OSS 120B (Runware)
+  1  GPT OSS 120B (Scaleway)
+  1  GPT OSS 120B (SCX.ai (Turbo))
+  2  GPT OSS 120B (Together AI)
+  1  GPT OSS 20B (Cloudflare)
+  1  GPT OSS 20B (Consensus Protocol)
+  1  GPT OSS 20B (Databricks)
+  1  GPT OSS 20B (Databricks, EU)
+  1  GPT OSS 20B (Deep Infra)
+  2  GPT OSS 20B (Groq)
+  1  GPT OSS Safeguard 20B (Amazon Bedrock)
+  1  GPT OSS Safeguard 20B (Amazon Bedrock, US)
+  1  GPT OSS Safeguard 20B (Groq)
+  1  gpt-oss-120b (GovCloud)
+  1  gpt-oss-20b (GovCloud)
+  1  Have an idea for Oracle Code Assist?
+  1  Huawei's model-as-a-service platform
+  1  I’m an Oracle Employee
+  1  IBM: Granite 4.2 8B
+  1  inclusionAI: Ring-2.6-1T
+  1  Kwaipilot: KAT-Coder-Pro V2
+  1  Kwaipilot: KAT-Coder-Pro V2.5
+  1  LFM2.5-2.6B (free)
+  1  Limit the number of macro expansions to the specified number, to prevent e.g. infinite macro loops. If set to Infinity, the macro expander will try to fully expand as in LaTeX.
+  1  LiquidAI: LFM2.5-2.6B (free)
+  1  Lynkr Auto (complexity routing)
+  1  Managed inference on renewable-powered GPU infrastructure
+  1  Meituan: LongCat 2.0
+  2  Meta’s multimodal reasoning model for experimentation, learning, and early-stage agentic, multi-agent, and coding workflows.
+  2  Ministral 3B (latest)
+  2  Ministral 8B (latest)
+  1  Model list may be stale for the current LiteLLM configuration.
+  1  Moonshot AI (China)
+  1  Nemotron 3 Nano 30B A3B (Deep Infra)
+  1  Nemotron 3 Nano Omni (free)
+  1  Nemotron 3 Super (free)
+  1  Nemotron 3 Super 120B A12B (Free)
+  1  Nemotron 3 Super 120B A12B (Nebius)
+  2  Nemotron 3 Ultra (free)
+  1  Nemotron 3 Ultra 550B (DeepInfra)
+  1  Nemotron 3 Ultra 550B A55B (Deep Infra)
+  1  Nemotron 3 Ultra 550B A55B (Nebius)
+  1  Nemotron 3.5 Lightning (free)
+  1  Nex AGI: Nex-N2.5-Mini (free)
+  1  Nex AGI: Nex-N2.5-Pro
+  1  Nex AGI: Nex-N2.5-Pro (free)
+  1  Nex-N2.5-Mini (free)
+  1  Nex-N2.5-Pro (free)
+  1  North Mini Code (free)
+  1  Now request 10% discount!
+  1  NVIDIA Nemotron 3 Super 120B  (Public Preview)
+  1  NVIDIA: Nemotron 3 Nano Omni (free)
+  1  NVIDIA: Nemotron 3 Super (free)
+  1  NVIDIA: Nemotron 3 Ultra (free)
+  1  NVIDIA: Nemotron 3.5 Lightning (free)
+  1  o3 (Fast)
+  1  o4 Mini (Azure)
+  1  o4 Mini (OpenAI)
+  1  o4-mini (EU)
+  1  o4-mini (Fast)
+  1  OpenAI Codex via the local Codex CLI provider
+  1  OpenAI o3-mini (High)
+  1  OpenAI o3-mini (Low)
+  1  OpenAI o3-pro (2025-06-10)
+  1  OpenAI: GPT Astra Latest ($$$$)
+  1  OpenAI: GPT Chat Latest
+  1  OpenAI: GPT Luna Latest
+  1  OpenAI: GPT Mini Latest
+  1  OpenAI: GPT Sol Latest
+  1  OpenAI: GPT Terra Latest
+  1  OpenAI: o3 Mini High
+  1  OpenAI: o4 Mini High
+  1  OpenAI-compatible chat completions endpoint
+  1  OpenAI's latest with strong coding abilities
+  1  Oracle Code Assist (OCA) LiteLLM gateway
+  1  Palmyra X4 (US)
+  1  Palmyra X5 (US)
+  2  Pixtral Large (25.02)
+  1  Pixtral Large (25.02) (Amazon Bedrock)
+  1  Pixtral Large (25.02) (Amazon Bedrock, US)
+  1  Pixtral Large (25.02) (EU)
+  1  Pixtral Large (25.02) (US)
+  1  Pixtral Large (latest)
+  1  Please select the appropriate API interface based on your location. If you are in China, choose the China API interface. Otherwise, choose the International API interface.
+  1  PrismML: Ternary Bonsai 2 27B
+  1  Relace: Relace Search
+  1  Render display math in leqno style (left-justified tags).
+  1  SAP AI Core inference and orchestration platform
+  1  SiliconFlow (China)
+  1  SSE (Legacy)
+  1  StepFun (China)
+  1  StepFun (Global)
+  1  StepFun Step Plan (China)
+  1  StepFun Step Plan (Global)
+  1  Stepfun-Ai/Gelab Zero 4b Preview
+  1  Tencent Coding Plan (China)
+  1  The model used search patterns that don't match anything in the file. Retrying...
+  1  The Vercel provider gives you access to the v0 API, designed for building modern web applications.
+  1  TheDrummer/Artemis v1.1
+  1  TOML, also INI
+  1  Turn on strict / LaTeX faithfulness mode, which throws an error if the input uses features that are not supported by LaTeX.
+  1  Unable to fetch models from SAP AI Core service instance. Please check your SAP AI Core configuration or ensure your deployments are deployed and running in the service instance
+  1  Unexpected `%c`. Add an attribute name before it
+  1  Unexpected `%c`. Expected `;` instead
+  1  Unexpected `%c`. Expected `[0-9]` for decimal references or `[0-9a-fA-F]` for hexadecimal references
+  1  Unexpected `%c`. Expected `<!--` to open the comment
+  3  Unexpected `%c`. Expected an ASCII letter instead
+  5  Unexpected `%c`. Expected ASCII whitespace instead
+  1  Unexpected `%c`. Expected identifier for `public` instead
+  1  Unexpected `%c`. Expected whitespace, `/`, `>`, `=`, or probably an ASCII letter
+  1  Unexpected `%c`. Quote the attribute value to include it
+  1  Unexpected `%c-1`. Expected `>` instead
+  1  Unexpected `%c-1`. Expected `-->` to close the comment
+  1  Unexpected `%c-1`. Expected an attribute value or no `%c-1` instead
+  1  Unexpected `%c-1`. Expected it followed by `>` or in a quoted attribute value
+  1  Unexpected `/`. Expected `>` instead
+  1  Unexpected `<![CDATA[` in HTML. Remove it, use a comment, or encode special characters instead
+  1  Unexpected `<!--`. Expected `-->`
+  1  Unexpected `<noscript>`. Expected a closing tag or a meta element
+  1  Unexpected `>` or `->`. Expected `-->` to close comments
+  1  Unexpected attribute. Expected `>` instead
+  1  Unexpected character at `%c`. Expected `>`
+  1  Unexpected character reference. Expected known named character references
+  1  Unexpected code point `%x`. Do not use lone surrogate characters in HTML
+  1  Unexpected code point `%x`. Do not use noncharacters in HTML
+  1  Unexpected code point `%x`. Do not use NULL characters in HTML
+  1  Unexpected code point. Do not use lone surrogate characters in HTML
+  1  Unexpected code point. Do not use noncharacters in HTML
+  1  Unexpected code point. Do not use NULL characters in HTML
+  1  Unexpected control character `%x`. Expected a non-control code point, 0x00, or ASCII whitespace
+  1  Unexpected doctype end at `%c`. Expected `html` instead
+  1  Unexpected doctype. Expected doctype before head
+  1  Unexpected element after head. Expected the element before `</head>`
+  1  Unexpected end of file. Expected `]]>` to close the CDATA
+  2  Unexpected end of file. Expected `-->` to close the comment
+  1  Unexpected end of file. Expected `>` to close the tag
+  1  Unexpected end of file. Expected a valid doctype (such as `<!doctype html>`)
+  1  Unexpected end of file. Expected closing tag instead
+  1  Unexpected end of file. Expected tag name instead
+  1  Unexpected end of file. Expected text or a closing tag
+  1  Unexpected end tag. Expected no end tag or another end tag
+  1  Unexpected sequence at `%c`. Expected `public` or `system`
+  1  Unexpected start tag `<head>`. Expected `<head>` directly after doctype
+  1  Unexpected text character `%c`. Only use text in `<noscript>`s in `<body>`
+  1  Unexpectedly closing tag. Expected other tags to be closed first
+  1  Unexpectedly control character in reference. Expected a non-control code point, 0x00, or ASCII whitespace
+  1  Unexpectedly double attribute. Expected attributes to occur only once
+  1  Unexpectedly high character reference. Expected character references to be at most hexadecimal 10ffff (or decimal 1114111)
+  1  Vercel's AI gateway service
+  1  You can find more information about SAP AI Core API access here.
+  1  Z-AI's new top open-weights model
+  1  זמן ISO
+  1  מפה (Map)
+  1  משך זמן ISO
+  1  סימבול (Symbol)
+  1  ערך לא מוגדר (undefined)
+  1  ערך ריק (null)
+  1  קבוצה (Set)
+  1  תאריך ISO
+  1  תאריך וזמן ISO
+  1  📋 Output is being logged to:

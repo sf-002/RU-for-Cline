@@ -1,0 +1,1232 @@
+unique remaining English display strings: 1231
+  1  (with your permission, of course)
+  1  ,R.yytext),
+  1  ,R.yytext),21;case 42:return C.getLogger().trace(
+  1  ,R.yytext),21}},
+  1  ,w.yytext),
+  1  ,w.yytext),20;case 36:return S.getLogger().trace(
+  1  ,w.yytext),20}},
+  1  ../my-feature-worktree
+  1  /workflow-name
+  1  [Wins]
+  1  ~/.qwen/oauth_creds.json
+  1  ── Deployed Models ──
+  1  ── Not Deployed Models ──
+  1  1) create a Google Cloud account › enable the Vertex AI API › enable the desired Claude models,
+  1  2) install the Google Cloud CLI › configure Application Default Credentials.
+  1  302.AI
+  2  A monthly subscription for the latest open-weights models, at much lower cost than paying for direct API access.
+  1  ai&
+  1  AionLabs: Aion 3.0
+  1  AionLabs: Aion 3.0 Mini
+  2  AionLabs: Aion-2.0
+  1  AionLabs: Aion-3.0
+  1  AionLabs: Aion-3.0-Mini
+  1  Alias for /compact
+  1  Alibaba (China)
+  1  Alibaba Coding Plan (China)
+  1  Alibaba Token Plan (China)
+  1  Amazon: Nova 2 Lite
+  1  Amazon: Nova Lite 1.0
+  1  Amazon: Nova Micro 1.0
+  1  Amazon: Nova Premier 1.0
+  1  Amazon: Nova Pro 1.0
+  2  Anthropic: Claude 3 Haiku
+  1  Anthropic: Claude 3.5 Haiku
+  1  Anthropic: Claude 3.5 Sonnet v2
+  1  Anthropic: Claude 3.7 Sonnet
+  1  Anthropic: Claude 4.5 Haiku
+  1  Anthropic: Claude 4.5 Haiku (20251001)
+  1  Anthropic: Claude Fable Latest ($$$$)
+  1  Anthropic: Claude Haiku Latest
+  1  Anthropic: Claude Opus 4
+  1  Anthropic: Claude Opus 4.1
+  1  Anthropic: Claude Opus 4.1 (20250805)
+  1  Anthropic: Claude Opus 4.5
+  1  Anthropic: Claude Opus Latest
+  2  Anthropic: Claude Sonnet 4
+  2  Anthropic: Claude Sonnet 4.5
+  1  Anthropic: Claude Sonnet 4.5 (20250929)
+  1  Anthropic: Claude Sonnet Latest
+  1  Anthropic's most intelligent model. Highest level of intelligence and capability.
+  2  application/json
+  1  Arcee AI: Trinity Large Preview
+  1  Arcee AI's advanced large preview model in the Trinity series
+  1  Arcee Trinity Large Thinking (Public Preview)
+  1  Atria Dawn Preview (Atria)
+  1  Auto model (Basic)
+  1  Auto model (Premium)
+  1  Auto model (Standard)
+  1  Auto-approve:
+  1  AWS SDK / IAM
+  1  ByteDance Seed: Seed 1.6
+  1  ByteDance Seed: Seed 1.6 Flash
+  1  ByteDance Seed: Seed 2.1 Turbo
+  3  ByteDance-Seed/Seed-OSS-36B-Instruct
+  1  Cerebras-Llama-4-Maverick-17B-128E-Instruct
+  1  Claude 4 Opus Thinking (1K)
+  1  Claude 4 Opus Thinking (32K)
+  1  Claude 4 Opus Thinking (8K)
+  1  Claude 4 Sonnet Thinking (1K)
+  1  Claude 4 Sonnet Thinking (32K)
+  1  Claude 4 Sonnet Thinking (64K)
+  1  Claude 4 Sonnet Thinking (8K)
+  1  Claude 4.1 Opus Thinking (1K)
+  1  Claude 4.1 Opus Thinking (32K)
+  1  Claude 4.1 Opus Thinking (8K)
+  1  Claude 4.6 Sonnet's
+  1  Claude Fable 5 (Anthropic)
+  1  Claude Fable 5 (AWS Bedrock)
+  1  Claude Fable 5 (Azure Anthropic)
+  2  Claude Fable 5 (EU)
+  1  Claude Fable 5 (Global)
+  1  Claude Fable 5 (US)
+  1  Claude Fable 5.1 (Anthropic)
+  1  Claude Fable 5.1 (AWS Bedrock)
+  1  Claude Fable 5.1 (EU)
+  1  Claude Fable 5.1 (Global)
+  1  Claude Fable 5.1 (US)
+  1  Claude Fable Latest (Claude Fable 5.1)
+  1  Claude Haiku 4.5 (2025-10-01) (Anthropic)
+  1  Claude Haiku 4.5 (2025-10-01) (AWS Bedrock)
+  1  Claude Haiku 4.5 (Anthropic)
+  1  Claude Haiku 4.5 (AU)
+  1  Claude Haiku 4.5 (AWS Bedrock)
+  1  Claude Haiku 4.5 (EU)
+  1  Claude Haiku 4.5 (Global)
+  1  Claude Haiku 4.5 (JP)
+ 21  Claude Haiku 4.5 (latest)
+  1  Claude Haiku 4.5 (latest) (EU)
+  1  Claude Haiku 4.5 (US)
+  1  Claude Haiku 4.5 (Vertex AI (Anthropic))
+  1  Claude Opus 4.1 (AWS Bedrock)
+  6  Claude Opus 4.1 (latest)
+  1  Claude Opus 4.5 (Anthropic)
+  1  Claude Opus 4.5 (AWS Bedrock)
+  1  Claude Opus 4.5 (EU)
+  1  Claude Opus 4.5 (Global)
+ 15  Claude Opus 4.5 (latest)
+  1  Claude Opus 4.5 (latest) (EU)
+  1  Claude Opus 4.5 (US)
+  1  Claude Opus 4.5 (Vertex AI (Anthropic))
+  1  Claude Opus 4.6 (Anthropic)
+  1  Claude Opus 4.6 (AWS Bedrock)
+  1  Claude Opus 4.6 (Azure Anthropic)
+  2  Claude Opus 4.6 (EU)
+  1  Claude Opus 4.6 (Global)
+  1  Claude Opus 4.6 (US)
+  1  Claude Opus 4.6 (Vertex AI (Anthropic))
+  1  Claude Opus 4.7 (Anthropic)
+  1  Claude Opus 4.7 (AU)
+  1  Claude Opus 4.7 (AWS Bedrock)
+  1  Claude Opus 4.7 (Azure Anthropic)
+  2  Claude Opus 4.7 (EU)
+  1  Claude Opus 4.7 (Global)
+  1  Claude Opus 4.7 (JP)
+  1  Claude Opus 4.7 (US)
+  1  Claude Opus 4.7 (Vertex AI (Anthropic))
+  1  Claude Opus 4.8 (Anthropic)
+  1  Claude Opus 4.8 (AU)
+  1  Claude Opus 4.8 (AWS Bedrock)
+  1  Claude Opus 4.8 (Azure Anthropic)
+  2  Claude Opus 4.8 (EU)
+  1  Claude Opus 4.8 (Fast)
+  1  Claude Opus 4.8 (Global)
+  1  Claude Opus 4.8 (JP)
+  1  Claude Opus 4.8 (US)
+  1  Claude Opus 5 (Anthropic)
+  1  Claude Opus 5 (AU)
+  1  Claude Opus 5 (AWS Bedrock)
+  1  Claude Opus 5 (Azure Anthropic)
+  2  Claude Opus 5 (EU)
+  1  Claude Opus 5 (Fast)
+  1  Claude Opus 5 (Global)
+  1  Claude Opus 5 (JP)
+  1  Claude Opus 5 (US)
+  1  Claude Opus Latest (Claude Opus 5)
+  1  Claude Sonnet 4 (latest)
+  1  Claude Sonnet 4 (latest) (EU)
+  1  Claude Sonnet 4.5 (2025-09-29) (Anthropic)
+  1  Claude Sonnet 4.5 (2025-09-29) (AWS Bedrock)
+  1  Claude Sonnet 4.5 (Anthropic)
+  1  Claude Sonnet 4.5 (AU)
+  1  Claude Sonnet 4.5 (AWS Bedrock)
+  1  Claude Sonnet 4.5 (EU)
+  1  Claude Sonnet 4.5 (Global)
+  1  Claude Sonnet 4.5 (JP)
+ 17  Claude Sonnet 4.5 (latest)
+  1  Claude Sonnet 4.5 (latest) (EU)
+  1  Claude Sonnet 4.5 (US)
+  1  Claude Sonnet 4.5 (Vertex AI (Anthropic))
+  1  Claude Sonnet 4.6 (Anthropic)
+  1  Claude Sonnet 4.6 (AWS Bedrock)
+  2  Claude Sonnet 4.6 (EU)
+  1  Claude Sonnet 4.6 (Global)
+  1  Claude Sonnet 4.6 (JP)
+  1  Claude Sonnet 4.6 (US)
+  1  Claude Sonnet 4.6 (Vertex AI (Anthropic))
+  1  Claude Sonnet 5 (Anthropic)
+  1  Claude Sonnet 5 (AU)
+  1  Claude Sonnet 5 (AWS Bedrock)
+  1  Claude Sonnet 5 (Azure Anthropic)
+  2  Claude Sonnet 5 (EU)
+  1  Claude Sonnet 5 (Free)
+  1  Claude Sonnet 5 (Global)
+  1  Claude Sonnet 5 (JP)
+  1  Claude Sonnet 5 (US)
+  1  Claude Sonnet 5 (Vertex AI (Anthropic))
+  1  Claude Sonnet Latest (Claude Sonnet 5)
+  1  Client Id is set. To change it, please re-enter the value.
+  1  Client Secret is set. To change it, please re-enter the value.
+  1  cline-pass/qwen3.8-max
+  2  CMD/CTRL + Shift + P
+  1  Code a classic Snake game that runs in the browser.
+  3  Codestral (latest)
+  1  Coding GLM 5.1 (free)
+  1  Coding MiniMax M2.7 (Free)
+  1  Cohere: North Mini Code (free)
+  4  Command R+
+  1  Connecting…
+  1  Create a beautiful notetaking app with Next.js and Tailwind
+  1  Create a comprehensive implementation plan before coding
+  1  Creator of Claude, the AI assistant
+  1  Credential source for Amazon Bedrock requests.
+  1  Current:
+  1  D.Run (China)
+  2  data(label)
+  1  Deep Research Max Preview (Apr-21-2026)
+  1  Deep Research Preview (Apr-21-2026)
+  1  DeepSeek V3 0324 (Deep Infra)
+  1  DeepSeek V3.1 Terminus (Thinking)
+  1  DeepSeek V3.2 (ByteDance)
+  1  DeepSeek V3.2 (DeepInfra)
+  1  DeepSeek V3.2 (NovitaAI)
+  1  DeepSeek V3.2 (Vertex AI (OpenAI-compatible))
+  1  DeepSeek V3/Chat Cheaper
+  1  DeepSeek V3/Deepseek Chat
+  2  DeepSeek V4 Flash (Alibaba Cloud)
+  1  DeepSeek V4 Flash (Baidu)
+  1  DeepSeek V4 Flash (ByteDance)
+  1  DeepSeek V4 Flash (CanopyWave)
+  1  DeepSeek V4 Flash (Consensus Protocol)
+  1  DeepSeek V4 Flash (DeepInfra)
+  1  DeepSeek V4 Flash (DeepSeek)
+  1  DeepSeek V4 Flash (Fireworks AI)
+  2  DeepSeek V4 Flash (Free)
+  1  DeepSeek V4 Flash (Gonka24)
+  1  DeepSeek V4 Flash (New)
+  1  DeepSeek V4 Flash (NovitaAI)
+  1  DeepSeek V4 Flash (RanoAI)
+  1  DeepSeek V4 Flash (Runware)
+  1  DeepSeek V4 Flash (Speed)
+  1  DeepSeek V4 Flash (Tencent Cloud)
+  1  DeepSeek V4 Flash (Thinking)
+  1  DeepSeek V4 Flash (Together AI)
+  1  DeepSeek V4 Flash 0731 (Alibaba)
+  1  DeepSeek V4 Flash 0731 (Cloudflare)
+  1  DeepSeek V4 Flash 0731 (Databricks)
+  1  DeepSeek V4 Flash 0731 (Deep Infra)
+  1  DeepSeek V4 Flash 0731 (EU)
+  1  DeepSeek V4 Flash 0731 (Fireworks AI)
+  1  DeepSeek V4 Flash 0731 (Nebius)
+  1  DeepSeek V4 Flash 0731 (Scaleway)
+  1  DeepSeek V4 Flash 0731 (TensorX)
+  1  DeepSeek V4 Flash 0731 (Thinking)
+  1  DeepSeek V4 Flash 0731 (Together AI)
+  1  DeepSeek V4 Flash Vision (Exp)
+  1  DeepSeek V4 Pro (0813)
+  2  DeepSeek V4 Pro (Alibaba Cloud)
+  1  DeepSeek V4 Pro (Baidu)
+  1  DeepSeek V4 Pro (ByteDance)
+  1  DeepSeek V4 Pro (CanopyWave)
+  1  DeepSeek V4 Pro (DeepInfra)
+  2  DeepSeek V4 Pro (DeepSeek)
+  1  DeepSeek V4 Pro (EU)
+  1  DeepSeek V4 Pro (Fireworks AI)
+  1  DeepSeek V4 Pro (New)
+  1  DeepSeek V4 Pro (Runware)
+  1  DeepSeek V4 Pro (Tencent Cloud)
+  1  DeepSeek V4 Pro (Thinking)
+  1  DeepSeek V4 Pro (Together AI)
+  1  DeepSeek V4 Pro 0813 (Alibaba)
+  1  DeepSeek V4 Pro 0813 (Cloudflare)
+  1  DeepSeek V4 Pro 0813 (Databricks)
+  1  DeepSeek V4 Pro 0813 (Deep Infra)
+  1  DeepSeek V4 Pro 0813 (EU)
+  1  DeepSeek V4 Pro 0813 (Fireworks AI)
+  1  DeepSeek V4 Pro 0813 (Nebius)
+  1  DeepSeek V4 Pro 0813 (TensorX)
+  1  DeepSeek V4 Pro 0813 (Together AI)
+  1  DeepSeek V4.1 Flash (Alibaba Cloud)
+  1  DeepSeek V4.1 Flash (Alibaba)
+  1  DeepSeek V4.1 Flash (Baidu)
+  1  DeepSeek V4.1 Flash (Consensus Protocol)
+  1  DeepSeek V4.1 Flash (Deep Infra)
+  1  DeepSeek V4.1 Flash (DeepInfra)
+  1  DeepSeek V4.1 Flash (DeepSeek)
+  1  DeepSeek V4.1 Flash (EU)
+  1  DeepSeek V4.1 Flash (Fireworks AI)
+  2  DeepSeek V4.1 Flash (free)
+  1  DeepSeek V4.1 Flash (NovitaAI)
+  1  DeepSeek V4.1 Flash (Runware)
+  1  DeepSeek V4.1 Flash (TensorX)
+  2  DeepSeek V4.1 Flash (Together AI)
+  1  DeepSeek/DeepSeek-V3.1-Terminus
+  1  Deepseek/DeepSeek-V3.2
+  1  DeepSeek/DeepSeek-V3.2-Exp
+  1  DeepSeek: DeepSeek Flash Latest
+  1  DeepSeek: DeepSeek Pro Latest
+  1  DeepSeek: DeepSeek V3 0324
+  1  DeepSeek: DeepSeek V3.1
+  1  DeepSeek: DeepSeek V3.1 Terminus (retires Sep 28)
+  1  DeepSeek: DeepSeek V3.2 Exp (retires Sep 28)
+  1  DeepSeek: DeepSeek V4 Flash Latest
+  1  DeepSeek: R1 0528
+  2  deepseek-ai/DeepSeek-R1
+  2  deepseek-ai/DeepSeek-V3
+  1  deepseek-ai/DeepSeek-V3.1
+  2  deepseek-ai/DeepSeek-V3.1-Terminus
+  2  deepseek-ai/DeepSeek-V3.2
+  1  deepseek-ai/DeepSeek-V3.2-Exp
+  1  deepseek-ai/DeepSeek-V4-Pro
+  1  DeepSeek-R1 (Deep Infra)
+  1  DeepSeek-V3 (Deep Infra)
+  1  Default: claude
+  1  Determines the markup language of the output.
+  1  Develop a powerful terminal CLI to automate a cool task
+  1  DevPass (LLM Gateway)
+  1  Devstral 2 (latest)
+  1  Devstral-2-123B-Instruct-2512-int4-AutoRound
+  1  devstral-latest@eu
+  1  Dify workflow/application provider via AI SDK
+  1  Disclaimer: Prohibited Data Submission
+  1  Dots Studio: Dots3-Note Preview (free)
+  1  Dots3-Note Preview (free)
+  1  ElevenLabs speech recognition model for accurate multilingual transcription
+  1  ElevenLabs speech-to-text and audio services
+  1  Error parsing response:
+  1  Expected a `<!doctype html>` before anything else
+  1  Fast and efficient MiMo for everyday coding
+  1  feature/my-feature
+  1  FLUX.1 [schnell]
+  1  FLUX.1 Fill [pro]
+  1  FLUX.2 [flex]
+  1  FLUX.2 [klein] 4B
+  1  FLUX.2 [klein] 9B
+  1  FLUX.2 [max]
+  1  FLUX.2 [pro]
+  1  FLUX1.1 [pro]
+  1  FLUX1.1 [pro] Ultra
+  1  Fugu Max (Sakana AI)
+  1  Fugu Ultra (Sakana AI)
+  1  Fugu Ultra v2.0 (Sakana AI)
+  1  Gemini 2.5 Flash (EU)
+  1  Gemini 2.5 Flash (Google AI Studio)
+  1  Gemini 2.5 Flash (Google Vertex AI)
+  1  Gemini 2.5 Flash Lite (Google AI Studio)
+  1  Gemini 2.5 Flash Lite (Google Vertex AI)
+  1  Gemini 2.5 Flash Lite Preview (09/2025)
+  1  Gemini 2.5 Flash Lite Preview (09/2025) – Thinking
+  1  Gemini 2.5 Flash Preview (09/2025)
+  1  Gemini 2.5 Flash Preview (09/2025) – Thinking
+  1  Gemini 2.5 Flash-Lite (EU)
+  1  Gemini 2.5 Pro (EU)
+  1  Gemini 2.5 Pro (Google AI Studio)
+  1  Gemini 2.5 Pro (Google Vertex AI)
+  1  Gemini 3 Flash (Preview)
+  1  Gemini 3 Flash (Preview) (Google AI Studio)
+  1  Gemini 3 Flash (Preview) (Google Vertex AI)
+  1  Gemini 3 Flash Preview (Vertex AI)
+  1  Gemini 3.1 Flash Image Preview (Nano Banana 2)
+  1  Gemini 3.1 Flash Lite (EU)
+  1  Gemini 3.1 Flash Lite (Google AI Studio)
+  1  Gemini 3.1 Flash Lite (Google Vertex AI)
+  1  Gemini 3.1 Flash Lite (Vertex AI)
+  1  Gemini 3.1 Flash Lite (Vertex AI, EU)
+  1  Gemini 3.1 Flash Lite (Vertex AI, US)
+  1  Gemini 3.1 Flash Lite Image (Nano Banana 2 Lite)
+  1  Gemini 3.1 Pro (Preview Custom Tools)
+  1  Gemini 3.1 Pro (Preview High)
+  1  Gemini 3.1 Pro (Preview Low)
+  1  Gemini 3.1 Pro (Preview)
+  1  Gemini 3.1 Pro (Preview) (Google AI Studio)
+  1  Gemini 3.1 Pro (Preview) (Google Vertex AI)
+  1  Gemini 3.1 Pro (Preview) (Quartz)
+  1  Gemini 3.1 Pro Preview (Vertex AI)
+  1  Gemini 3.5 Flash (EU)
+  1  Gemini 3.5 Flash (Google AI Studio)
+  1  Gemini 3.5 Flash (Google Vertex AI)
+  1  Gemini 3.5 Flash (Vertex AI)
+  1  Gemini 3.5 Flash (Vertex AI, EU)
+  1  Gemini 3.5 Flash (Vertex AI, US)
+  1  Gemini 3.5 Flash Lite (EU)
+  1  Gemini 3.5 Flash Lite (Google AI Studio)
+  1  Gemini 3.5 Flash Lite (Google Vertex AI)
+  1  Gemini 3.5 Flash Lite (Vertex AI)
+  1  Gemini 3.5 Flash Lite (Vertex AI, EU)
+  1  Gemini 3.5 Flash Lite (Vertex AI, US)
+  1  Gemini 3.6 Flash (Google AI Studio)
+  1  Gemini 3.6 Flash (Google Vertex AI)
+  1  Gemini 3.6 Flash (Vertex AI)
+  1  Gemini 3.6 Flash (Vertex AI, EU)
+  1  Gemini 3.6 Flash (Vertex AI, US)
+  1  Gemini 3.7 Flash (EU)
+  1  Gemini 3.7 Flash (Google AI Studio)
+  1  Gemini 3.7 Flash (Google Vertex AI)
+  1  Gemini 3.7 Flash (Vertex AI)
+  1  Gemini 3.7 Flash (Vertex AI, EU)
+  1  Gemini 3.7 Flash (Vertex AI, US)
+  1  Gemini 3.8 Flash (EU)
+  1  Gemini 3.8 Flash (Google AI Studio)
+  1  Gemini 3.8 Flash (Google Vertex AI)
+  1  Gemini 3.8 Flash (Vertex AI)
+  1  Gemini 3.8 Flash (Vertex AI, EU)
+  1  Gemini 3.8 Flash (Vertex AI, US)
+  1  Gemini Flash Latest (Gemini 3.8 Flash)
+  1  Gemini Flash Latest (Gemini 3.8 Flash, Vertex AI)
+  1  Gemini Pro Latest (Gemini 3.1 Pro Preview)
+  1  Gemini Pro Latest (Gemini 3.1 Pro Preview, Vertex AI)
+  1  Gemini Pro Latest (Google AI Studio)
+  1  Gemma 3 12B IT (Amazon Bedrock)
+  1  Gemma 3 12B IT (Amazon Bedrock, US)
+  1  Gemma 3 12B IT (Deep Infra)
+  1  Gemma 3 27B IT (Amazon Bedrock)
+  1  Gemma 3 27B IT (Amazon Bedrock, US)
+  1  Gemma 3 27B IT (Deep Infra)
+  1  Gemma 3 27B IT (Nebius)
+  1  Gemma 3 4B (Pretrained)
+  1  Gemma 3 4B IT (Amazon Bedrock)
+  1  Gemma 3 4B IT (Amazon Bedrock, US)
+  1  Gemma 3 4B IT (Deep Infra)
+  1  Gemma 4 26B A4B  (free)
+  1  Gemma 4 26B A4B IT (DeepInfra)
+  1  Gemma 4 26B A4B IT (NovitaAI)
+  1  Gemma 4 31B (free)
+  1  Gemma 4 31B Claude 4.6 Opus Reasoning Distilled
+  1  Gemma 4 31B IT (Cerebras)
+  1  Gemma 4 31B IT (Consensus Protocol)
+  1  Gemma 4 31B IT (DeepInfra)
+  1  Gemma 4 31B IT (free)
+  1  Gemma 4 31B IT (NovitaAI)
+  1  Gemma 4 31B IT (Runware)
+  1  Gemma 4 31B IT (SCX.ai (Turbo))
+  1  gemma4:31b
+  1  GLiNER2 Privacy Filter PII (Multi)
+  1  GLM (latest)
+  1  GLM 4.5 Air (Thinking)
+  1  GLM 4.6V Flash (Free)
+  1  GLM 4.7 Flash (Free)
+  1  GLM 5.3 Fast (Latest)
+  1  GLM Flash (latest)
+  1  GLM Flash Latest (GLM 5.3 Flash)
+  1  GLM-4 32B (0414-128k)
+  1  GLM-4 32B (0414-128k) (Z AI)
+  1  GLM-4.5 (EmberCloud)
+  1  GLM-4.5 (Z AI)
+  1  GLM-4.5 Air (EmberCloud)
+  1  GLM-4.5 Air (Z AI)
+  1  GLM-4.5 AirX (Z AI)
+  1  GLM-4.5 X (Z AI)
+  1  GLM-4.5V (NovitaAI)
+  1  GLM-4.5V (Z AI)
+  1  GLM-4.6 (NovitaAI)
+  1  GLM-4.6 (Z AI)
+  1  GLM-4.6V (NovitaAI)
+  1  GLM-4.6V (Z AI)
+  1  GLM-4.6V FlashX (Z AI)
+  1  GLM-4.7 (ByteDance)
+  1  GLM-4.7 (Cerebras)
+  1  GLM-4.7 (EmberCloud)
+  1  GLM-4.7 (NovitaAI)
+  1  GLM-4.7 (Vertex AI (OpenAI-compatible))
+  1  GLM-4.7 (Z AI)
+  1  GLM-4.7 Flash (EmberCloud)
+  1  GLM-4.7 FlashX (Z AI)
+  1  GLM-4.7-Flash (Amazon Bedrock)
+  1  GLM-4.7-Flash (Amazon Bedrock, US)
+  1  GLM-4.7-Flash (Cloudflare)
+  1  GLM-4.7-Flash (Deep Infra)
+  1  GLM-4.7-Flash (Free)
+  1  GLM-5 (Alibaba Cloud)
+  1  GLM-5 (Baidu)
+  1  GLM-5 (EmberCloud)
+  1  GLM-5 (NovitaAI)
+  1  GLM-5 (Tencent Cloud)
+  1  GLM-5 (Vertex AI (OpenAI-compatible))
+  1  GLM-5 (Z AI)
+  1  GLM-5 Turbo (Tencent Cloud)
+  1  GLM-5.1 (Alibaba Cloud)
+  1  GLM-5.1 (Baidu)
+  1  GLM-5.1 (DeepInfra)
+  1  GLM-5.1 (EmberCloud)
+  1  GLM-5.1 (EU)
+  1  GLM-5.1 (NovitaAI)
+  1  GLM-5.1 (Tencent Cloud)
+  1  GLM-5.1 (Z AI)
+  1  GLM-5.1 (Z.ai)
+  1  GLM-5.2 (Alibaba Cloud)
+  1  GLM-5.2 (Baidu)
+  1  GLM-5.2 (ByteDance)
+  1  GLM-5.2 (CanopyWave)
+  1  GLM-5.2 (EmberCloud)
+  1  GLM-5.2 (EU)
+  1  GLM-5.2 (NovitaAI)
+  1  GLM-5.2 (Runware)
+  1  GLM-5.2 (SCX.ai)
+  1  GLM-5.2 (Tencent Cloud)
+  1  GLM-5.2 (Z AI)
+  1  GLM-5.2 Turbo (SCX.ai)
+  1  GLM-5.3 (Alibaba Cloud)
+  1  GLM-5.3 (Baidu)
+  1  GLM-5.3 (EU)
+  1  GLM-5.3 (free)
+  1  GLM-5.3 (NovitaAI)
+  1  GLM-5.3 (Runware)
+  1  GLM-5.3 (SCX.ai)
+  1  GLM-5.3 (Z AI)
+  1  GLM-5.3 Flash (Consensus Protocol)
+  1  GLM-5.3 Flash (Gonka24)
+  1  GLM-5.3 Flash (NovitaAI)
+  1  GLM-5.3 Flash (Runware)
+  1  GLM-5.3 Flash (SCX.ai)
+  1  GLM-5.3 Flash (Z AI)
+  1  GLM-5.3-Flash (EU)
+  3  GLM-5.3-Flash (free)
+  1  GLM-5V Turbo (Tencent Cloud)
+  1  Google Cloud project that owns the Vertex AI resources.
+  1  Google: Gemini 2.5 Pro Preview 06-05
+  1  Google: Gemini Flash Latest
+  1  Google: Gemini Pro Latest
+  1  GPT 5.1 Thinking (Fast)
+  1  GPT 5.2 (Fast)
+  1  GPT 5.3 Codex (Fast)
+  1  GPT 5.4 (Fast)
+  1  GPT 5.4 Mini (Fast)
+  1  GPT 5.5 (Fast)
+  1  GPT 5.6 Luna (Fast)
+  1  GPT 5.6 Sol (Fast)
+  1  GPT 5.6 Terra (Fast)
+  1  GPT Latest (GPT-6 Astra)
+  1  GPT Mini Latest (GPT-5.4 mini)
+  1  GPT OSS 120B (Azure)
+  1  GPT OSS 120B (ByteDance)
+  2  GPT OSS 120B (Cerebras)
+  1  GPT OSS 120B (Cloudflare)
+  1  GPT OSS 120B (Databricks)
+  1  GPT OSS 120B (Databricks, EU)
+  1  GPT OSS 120B (Deep Infra)
+  1  GPT OSS 120B (Fireworks AI)
+  2  GPT OSS 120B (Groq)
+  1  GPT OSS 120B (Nebius)
+  1  GPT OSS 120B (Runware)
+  1  GPT OSS 120B (Scaleway)
+  1  GPT OSS 120B (SCX.ai (Turbo))
+  2  GPT OSS 120B (Together AI)
+  1  GPT OSS 20B (Cloudflare)
+  1  GPT OSS 20B (Consensus Protocol)
+  1  GPT OSS 20B (Databricks)
+  1  GPT OSS 20B (Databricks, EU)
+  1  GPT OSS 20B (Deep Infra)
+  2  GPT OSS 20B (Groq)
+  1  GPT OSS Safeguard 20B (Amazon Bedrock)
+  1  GPT OSS Safeguard 20B (Amazon Bedrock, US)
+  1  GPT OSS Safeguard 20B (Groq)
+  1  GPT Pro Latest (GPT-5.5 Pro)
+  1  GPT-3.5 Turbo (Azure)
+  1  GPT-3.5 Turbo (older v0613)
+  1  GPT-3.5 Turbo (OpenAI)
+  1  GPT-4 (Azure)
+  1  GPT-4 (OpenAI)
+  1  GPT-4 Turbo (Azure)
+  1  GPT-4 Turbo (OpenAI)
+  1  GPT-4.1 (Azure)
+  1  GPT-4.1 (EU)
+  1  GPT-4.1 (Fast)
+  1  GPT-4.1 (OpenAI)
+  1  GPT-4.1 Mini (Azure)
+  1  GPT-4.1 mini (EU)
+  1  GPT-4.1 mini (Fast)
+  1  GPT-4.1 Mini (OpenAI)
+  1  GPT-4.1 Nano (Azure)
+  1  GPT-4.1 nano (EU)
+  1  GPT-4.1 nano (Fast)
+  1  GPT-4.1 Nano (OpenAI)
+  3  GPT-4o (2024-05-13)
+  6  GPT-4o (2024-08-06)
+  7  GPT-4o (2024-11-20)
+  1  GPT-4o (Azure)
+  1  GPT-4o (Fast)
+  1  GPT-4o (OpenAI)
+  1  GPT-4o mini (EU)
+  1  GPT-4o mini (Fast)
+  1  GPT-4o Mini (OpenAI)
+  1  GPT-4o-mini (2024-07-18)
+  1  GPT-5 (Azure)
+  1  GPT-5 (EU)
+  1  GPT-5 (Fast)
+  1  GPT-5 (OpenAI)
+  1  GPT-5 Mini (Azure)
+  1  GPT-5 Mini (EU)
+  1  GPT-5 mini (Fast)
+  1  GPT-5 Mini (OpenAI)
+  1  GPT-5 Nano (Azure)
+  1  GPT-5 Nano (EU)
+  1  GPT-5 Nano (OpenAI)
+  1  GPT-5 Pro (OpenAI)
+  1  GPT-5.1 (2025-11-13)
+  1  GPT-5.1 (Azure)
+  1  GPT-5.1 (EU)
+  1  GPT-5.1 (OpenAI)
+  2  GPT-5.1 Codex (Azure)
+  1  GPT-5.1 Codex Max (Azure)
+  2  GPT-5.1 Codex mini (Azure)
+  1  GPT-5.2 (Azure)
+  1  GPT-5.2 (OpenAI)
+  2  GPT-5.2 Codex (Azure)
+  1  GPT-5.2 Pro (Azure)
+  1  GPT-5.2 Pro (OpenAI)
+  1  GPT-5.3 Chat (latest)
+  1  GPT-5.3 Codex (Azure)
+  1  GPT-5.3 Codex (OpenAI)
+  1  GPT-5.4 (Azure)
+  1  GPT-5.4 (EU)
+  1  GPT-5.4 (OpenAI)
+  1  GPT-5.4 Mini (Azure)
+  1  GPT-5.4 Mini (OpenAI)
+  1  GPT-5.4 Nano (Azure)
+  1  GPT-5.4 Nano (OpenAI)
+  1  GPT-5.4 Pro (Azure)
+  1  GPT-5.4 Pro (OpenAI)
+  1  GPT-5.5 (Azure)
+  1  GPT-5.5 (EU)
+  1  GPT-5.5 (OpenAI)
+  1  GPT-5.5 Pro (OpenAI)
+  1  GPT-5.6 Luna (AWS Mantle)
+  1  GPT-5.6 Luna (Azure)
+  1  GPT-5.6 Luna (EU)
+  1  GPT-5.6 Luna (Global)
+  1  GPT-5.6 Luna (India)
+  1  GPT-5.6 Luna (OpenAI)
+  1  GPT-5.6 Luna (US)
+  1  GPT-5.6 Sol (AWS Mantle)
+  1  GPT-5.6 Sol (Azure)
+  1  GPT-5.6 Sol (EU)
+  1  GPT-5.6 Sol (Global)
+  1  GPT-5.6 Sol (Official API)
+  1  GPT-5.6 Sol (OpenAI)
+  1  GPT-5.6 Sol (US)
+  1  GPT-5.6 Terra (AWS Mantle)
+  1  GPT-5.6 Terra (Azure)
+  1  GPT-5.6 Terra (EU)
+  1  GPT-5.6 Terra (Global)
+  1  GPT-5.6 Terra (India)
+  1  GPT-5.6 Terra (OpenAI)
+  1  GPT-5.6 Terra (US)
+  1  GPT-6 Astra (AWS Mantle)
+  1  GPT-6 Astra (Azure)
+  1  GPT-6 Astra (Fast)
+  1  GPT-6 Astra (Global)
+  1  GPT-6 Astra (Official API)
+  1  GPT-6 Astra (OpenAI)
+  1  GPT-6 Astra (US)
+  1  gpt-oss:120b
+  1  gpt-oss:20b
+  1  gpt-oss-120b (GovCloud)
+  1  gpt-oss-20b (GovCloud)
+  1  Grok 4 (xAI)
+  1  Grok 4 Fast (Non-Reasoning)
+  3  Grok 4.1 Fast (Non-Reasoning)
+  2  Grok 4.1 Fast (Reasoning)
+  1  Grok 4.1 Fast Non-Reasoning (Azure AI Foundry)
+  1  Grok 4.1 Fast Reasoning (Azure AI Foundry)
+  7  Grok 4.20 (Non-Reasoning)
+  8  Grok 4.20 (Reasoning)
+  1  Grok 4.20 Beta Non-Reasoning (0309) (xAI)
+  1  Grok 4.20 Beta Reasoning (0309) (xAI)
+  1  Grok 4.20 Non-Reasoning (Vertex AI (OpenAI-compatible))
+  1  Grok 4.20 Reasoning (Vertex AI (OpenAI-compatible))
+  1  Grok 4.3 (AWS Bedrock)
+  1  Grok 4.3 (Azure AI Foundry)
+  1  Grok 4.3 (xAI)
+  1  Grok 4.5 (xAI)
+  1  Grok 4.6 (AWS Bedrock)
+  1  Grok 4.6 (Global)
+  1  Grok 4.6 (US)
+  1  Grok 4.6 (Vertex AI (OpenAI-compatible))
+  1  Grok 4.6 (xAI)
+  1  Grok 4.7 (xAI)
+  1  Grok Build 0.1 (xAI)
+  1  Grok Latest (Grok 4.6)
+  1  Have an idea for Oracle Code Assist?
+  1  Hook returned invalid JSON. See error details below for more information.
+  1  Hook toggling is not yet supported on Windows in this foundation PR. Hooks can be created, edited, and deleted, and execute whenever the hook file exists. Coming next: JSON-backed hook enabled/disabled state across platforms.
+  1  Hook:
+  1  HTML, XML
+  1  Huawei's model-as-a-service platform
+  1  Hy3 (Deep Infra)
+  1  Hy3 (DeepInfra)
+  2  Hy3 (Free)
+  1  Hy3 (NovitaAI)
+  1  Hy3 (Tencent Cloud)
+  1  Hy4 Preview (Tencent Cloud)
+  1  I’m an Oracle Employee
+  1  IBM: Granite 4.2 8B
+  1  Inception: Mercury 2
+  1  Inception: Mercury 2.5
+  1  InclusionAI Ling 3.0 Flash (DeepInfra)
+  1  InclusionAI Ling 3.0 Flash (NovitaAI)
+  2  inclusionAI/Ling-flash-2.0
+  1  inclusionAI: Ling 3.0 Flash
+  1  inclusionAI: Ling 3.0 Flash Fin
+  1  inclusionAI: Ling 3.0 Flash Fin (free)
+  1  inclusionAI: Ling 3.0 Flash Sante (free)
+  1  inclusionAI: Ling 3.0 Flash VL
+  1  inclusionAI: Ling 3.0 Flash VL (free)
+  1  inclusionAI: Ring-2.6-1T
+  1  Inkling (256K)
+  1  Inkling (Databricks)
+  1  Inkling (Deep Infra)
+  1  Inkling (Fireworks AI)
+  1  Inkling (free)
+  1  Inkling (Together AI)
+  1  Inkling Small (Deep Infra)
+  1  Inkling Small (free)
+  1  Input:
+  1  Kimi For Coding (kimi.ai)
+  1  Kimi For Coding (kimi.com)
+  1  Kimi K2 (07/11)
+  1  Kimi K2 (09/05)
+  1  Kimi K2 (NovitaAI)
+  1  Kimi K2 Thinking (Amazon Bedrock)
+  1  Kimi K2 Thinking (Vertex AI (OpenAI-compatible))
+  1  Kimi K2.5 (Alibaba Cloud)
+  1  Kimi K2.5 (Amazon Bedrock)
+  1  Kimi K2.5 (Deep Infra)
+  1  Kimi K2.5 (EmberCloud)
+  1  Kimi K2.5 (Moonshot AI)
+  1  Kimi K2.5 (TensorX)
+  1  Kimi K2.6 (Baidu)
+  1  Kimi K2.6 (CanopyWave)
+  1  Kimi K2.6 (EU)
+  1  Kimi K2.6 (Free)
+  1  Kimi K2.6 (Moonshot AI)
+  1  Kimi K2.6 (NovitaAI)
+  1  Kimi K2.6 (Runware)
+  1  Kimi K2.6 (Tencent Cloud)
+  1  Kimi K2.7 Code (EU)
+  2  Kimi K2.7 Code (Free)
+  1  Kimi K2.7 Code (Moonshot AI)
+  1  Kimi K2.7 Code (NovitaAI)
+  1  Kimi K2.7 Code (SCX.ai)
+  1  Kimi K2.7 Code (Tencent Cloud)
+  1  Kimi K2.7 Code Highspeed (Moonshot AI)
+  1  Kimi K2.7 Code Highspeed (Tencent Cloud)
+  1  Kimi K3 (Alibaba Cloud)
+  1  Kimi K3 (CanopyWave)
+  1  Kimi K3 (EU)
+  1  Kimi K3 (Fireworks AI)
+  1  Kimi K3 (Free)
+  1  Kimi K3 (Moonshot AI)
+  1  Kimi K3 (NovitaAI)
+  1  Kimi K3 (Runpod)
+  1  Kimi K3 (Runware)
+  1  Kimi K3 (SCX.ai)
+  1  Kimi K3 (Tencent Cloud)
+  1  Kimi K3 (Together AI)
+  1  Kimi K3 Fast (Fireworks AI)
+  1  kimi/kimi-k2.5
+  1  KwaiKAT: Kat Coder Pro
+  1  KwaiKAT's most advanced agentic coding model in the KAT-Coder series
+  1  Kwaipilot: KAT-Coder-Pro V2
+  1  Kwaipilot: KAT-Coder-Pro V2.5
+  3  Laguna S 2.1 (free)
+  1  Laguna XS 2.1 (free)
+  1  Latest Gemini release with 1m ctx window and strong coding performance
+  1  Latest natively multimodal model in the GLM-5 series
+  2  Latest natively multimodal model in the GLM-5 series.
+  1  leanstral-1-5@eu
+  1  LFM2.5-2.6B (free)
+  1  Limit the number of macro expansions to the specified number, to prevent e.g. infinite macro loops. If set to Infinity, the macro expander will try to fully expand as in LaTeX.
+  2  Ling 3.0 Flash Fin (free)
+  2  Ling 3.0 Flash Sante (free)
+  2  Ling 3.0 Flash VL (free)
+  1  LiquidAI: LFM2.5-2.6B (free)
+  1  Llama 3.1 70B Instruct (US)
+  1  Llama 3.1 8b (uncensored)
+  1  Llama 3.1 8B Instruct (US)
+  1  Llama 3.1 Instruct (8B)
+  1  Llama 3.1 Nemotron 70B Instruct (Deep Infra)
+  1  Llama 3.3 70B Instruct (Cerebras)
+  1  Llama 3.3 70B Instruct (NovitaAI)
+  1  Llama 3.3 70B Instruct (US)
+  1  Llama 3.3 Instruct (70B)
+  1  Llama 4 Maverick 17B Instruct (SCX.ai (Turbo))
+  1  Llama 4 Maverick 17B Instruct (US)
+  1  Llama 4 Scout 17B Instruct (US)
+  1  Llama-3.3-70B-Instruct (Deep Infra)
+  1  Llama-3.3-70B-Instruct (Scaleway)
+  1  Lynkr Auto (complexity routing)
+  3  Magistral Medium (latest)
+  1  Managed inference on renewable-powered GPU infrastructure
+  1  Meituan/Longcat-Flash-Lite
+  1  Meituan: LongCat 2.0
+  1  Meta Llama 3.1 8B Instruct (GGUF)
+  1  Meta: Llama 4 Maverick
+  1  Meta: Llama 4 Scout
+  1  Meta: Muse Spark 1.2 Contributor
+  1  Meta: Muse Spark 1.3 Contributor
+  2  Meta’s multimodal reasoning model for experimentation, learning, and early-stage agentic, multi-agent, and coding workflows.
+  1  MiMo V2.5 (DeepInfra)
+  1  MiMo V2.5 (NovitaAI)
+  1  MiMo V2.5 (Xiaomi)
+  1  MiMo V2.5 Pro (NovitaAI)
+  1  MiMo V2.5 Pro (Tencent Cloud)
+  1  MiMo V2.5 Pro (Xiaomi)
+  1  MiMo-V2.5 (Free)
+  1  MiniMax (minimax.cn)
+  1  MiniMax (minimax.io)
+  1  MiniMax M2 (MiniMax)
+  1  MiniMax M2.1 (MiniMax)
+  1  MiniMax M2.1 (NovitaAI)
+  1  MiniMax M2.1 Lightning (MiniMax)
+  1  MiniMax M2.5 (MiniMax)
+  1  MiniMax M2.5 (NovitaAI)
+  1  MiniMax M2.5 (Public Preview)
+  1  MiniMax M2.5 Highspeed (MiniMax)
+  1  MiniMax M2.7 (Gonka24)
+  1  MiniMax M2.7 (MiniMax)
+  1  MiniMax M2.7 (NovitaAI)
+  1  MiniMax M2.7 (SCX.ai (Turbo))
+  1  MiniMax M2.7 (Tencent Cloud)
+  1  MiniMax M2.7 Highspeed (MiniMax)
+  1  MiniMax M3 (MiniMax)
+  1  MiniMax M3 (Tencent Cloud)
+  1  MiniMax Text 01 (MiniMax)
+  1  MiniMax Token Plan (minimax.cn)
+  1  MiniMax Token Plan (minimax.io)
+  1  Minimax/Minimax-M2
+  1  Minimax/Minimax-M2.1
+  1  Minimax/Minimax-M2.5
+  1  Minimax/Minimax-M2.5 Highspeed
+  1  MiniMax: MiniMax M1
+  1  MiniMax: MiniMax M2.5
+  1  MiniMaxAI/MiniMax-M2.5
+  1  MiniMax-M3 (EU)
+  2  Ministral 3B (latest)
+  2  Ministral 8B (latest)
+  1  Mistral Large (Free)
+  4  Mistral Large (latest)
+  3  Mistral Medium (latest)
+  1  Mistral Medium (latest) (EU)
+  1  Mistral Medium 3.5 (Free)
+  3  Mistral Small (latest)
+  1  Mistral Small 3.2 24B Instruct (2506)
+  1  Mistral Small 4 (EU)
+  1  Mistral: Codestral 2508
+  1  Mistral: Ministral 3 14B 2512
+  1  Mistral: Ministral 3 3B 2512
+  1  Mistral: Ministral 3 8B 2512
+  1  Mistral: Mistral Medium 3
+  1  Mistral: Mistral Medium 3.1
+  1  Mistral: Mistral Medium 3.5
+  1  Mistral: Mistral Small 3.1 24B
+  1  Mistral: Mistral Small 3.2 24B
+  2  Mistral: Mixtral 8x22B Instruct
+  1  Mistral: Mixtral 8x7B Instruct
+  1  Mistral: Saba
+  1  mistral-large-3:675b
+  1  mistral-medium-3-5@eu
+  1  Model list may be stale for the current LiteLLM configuration.
+  1  Model:
+  1  Moonshot AI (China)
+  2  Moonshotai/Kimi-K2.5
+  1  moonshotai/Kimi-K2.6
+  1  MoonshotAI: Kimi K2 0711
+  1  MoonshotAI: Kimi K2 0905
+  1  MoonshotAI: Kimi Latest
+  1  Muse Glimmer 30B (Deep Infra)
+  1  Muse Glimmer 30B (Fireworks AI)
+  1  Muse Glimmer 30B (Together AI)
+  1  Muse Glimmer 30B (TR)
+  1  Muse Spark 1.1 (Meta)
+  1  Muse Spark 1.2 (Meta)
+  1  Muse Spark 1.2 Contributor (Data Used for Training)
+  1  Muse Spark 1.2 Contributor (Meta Contributor)
+  1  Muse Spark 1.3 (Meta)
+  2  Muse Spark 1.3 Contributor (free)
+  1  Muse Spark 1.3 Contributor (Meta Contributor)
+  1  Named AWS profile when using profile authentication.
+  1  Nano Banana (Gemini 2.5 Flash Image)
+  1  Nemotron 3 Nano 30B A3B (Deep Infra)
+  1  Nemotron 3 Nano Omni (free)
+  1  Nemotron 3 Super (free)
+  1  Nemotron 3 Super 120B A12B (Free)
+  1  Nemotron 3 Super 120B A12B (Nebius)
+  2  Nemotron 3 Ultra (free)
+  1  Nemotron 3 Ultra 550B (DeepInfra)
+  1  Nemotron 3 Ultra 550B A55B (Deep Infra)
+  1  Nemotron 3 Ultra 550B A55B (Nebius)
+  1  Nemotron 3.5 Lightning (free)
+  1  nemotron-3-nano:30b
+  1  nemotron-3-nano-omni@eu
+  1  Nex AGI: Nex-N2.5-Mini (free)
+  1  Nex AGI: Nex-N2.5-Pro
+  1  Nex AGI: Nex-N2.5-Pro (free)
+  1  Nex-N2.5-Mini (free)
+  1  Nex-N2.5-Pro (free)
+  1  node_modules/
+  1  North Mini Code (free)
+  5  Note:
+  1  Nova 2 Lite (EU)
+  1  Nova 2 Lite (Global)
+  1  Nova 2 Lite (JP)
+  1  Nova 2 Lite (US)
+  1  Nova Lite (APAC)
+  1  Nova Lite (CA)
+  1  Nova Lite (EU)
+  2  Nova Lite (US)
+  1  Nova Micro (APAC)
+  1  Nova Micro (EU)
+  2  Nova Micro (US)
+  1  Nova Pro (APAC)
+  1  Nova Pro (EU)
+  2  Nova Pro (US)
+  1  Now request 10% discount!
+  1  NVIDIA Nemotron 3 Super 120B  (Public Preview)
+  1  NVIDIA: Nemotron 3 Nano Omni (free)
+  1  NVIDIA: Nemotron 3 Super (free)
+  1  NVIDIA: Nemotron 3 Ultra (free)
+  1  NVIDIA: Nemotron 3.5 Lightning (free)
+  1  o3 (Fast)
+  1  o4 Mini (Azure)
+  1  o4 Mini (OpenAI)
+  1  o4-mini (EU)
+  1  o4-mini (Fast)
+  1  OpenAI Codex via the local Codex CLI provider
+  1  OpenAI o3-mini (High)
+  1  OpenAI o3-mini (Low)
+  1  OpenAI o3-pro (2025-06-10)
+  1  OpenAI/GPT-5
+  1  OpenAI/GPT-5.2
+  1  openai/gpt-oss-120b
+  1  openai/gpt-oss-20b
+  1  OpenAI: GPT Astra Latest ($$$$)
+  1  OpenAI: GPT Chat Latest
+  1  OpenAI: GPT Luna Latest
+  1  OpenAI: GPT Mini Latest
+  1  OpenAI: GPT Sol Latest
+  1  OpenAI: GPT Terra Latest
+  1  OpenAI: GPT-3.5 Turbo (older v0613)
+  1  OpenAI: GPT-3.5 Turbo 16k
+  1  OpenAI: GPT-4o-mini (2024-07-18)
+  2  OpenAI: GPT-5 Codex
+  1  OpenAI: GPT-5.2 Chat
+  1  OpenAI: GPT-6 Astra Pro ($$$$)
+  1  OpenAI: o3 Mini High
+  1  OpenAI: o4 Mini High
+  1  OpenAI-compatible chat completions endpoint
+  1  OpenAI's latest with strong coding abilities
+  1  Optional API key for authenticated Ollama instances or cloud services. Leave empty for local installations.
+  1  Optional Bedrock bearer token for API key authentication.
+  1  Optional Google API key for Gemini models. Vertex Anthropic models use Google Cloud credentials.
+  1  Oracle Code Assist (OCA) LiteLLM gateway
+  1  Output:
+  1  Palmyra X4 (US)
+  1  Palmyra X5 (US)
+  1  Path to your Qwen OAuth credentials file. Use ~/.qwen/oauth_creds.json or provide a custom path.
+  1  pie-{{i}}-background-color
+  1  pie-{{i}}-background-opacity
+  1  pie-{{i}}-background-size
+  2  Pixtral Large (25.02)
+  1  Pixtral Large (25.02) (Amazon Bedrock)
+  1  Pixtral Large (25.02) (Amazon Bedrock, US)
+  1  Pixtral Large (25.02) (EU)
+  1  Pixtral Large (25.02) (US)
+  1  Pixtral Large (latest)
+  1  Please select the appropriate API entrypoint based on your location. If you are in China, choose open.bigmodel.cn . Otherwise, choose api.z.ai.
+  1  Please select the appropriate API interface based on your location. If you are in China, choose the China API interface. Otherwise, choose the International API interface.
+  1  Poolside: Laguna S 2.1
+  1  Poolside: Laguna S 2.1 (free)
+  1  Poolside: Laguna XS 2.1
+  1  Poolside: Laguna XS 2.1 (free)
+  1  PrismML: Ternary Bonsai 2 27B
+  1  Pro/deepseek-ai/DeepSeek-R1
+  1  Pro/deepseek-ai/DeepSeek-V3
+  1  Pro/deepseek-ai/DeepSeek-V3.1-Terminus
+  1  Pro/deepseek-ai/DeepSeek-V3.2
+  1  Pro/MiniMaxAI/MiniMax-M2.5
+  1  Pro/moonshotai/Kimi-K2.5
+  1  Pro/moonshotai/Kimi-K2.6
+  1  Pro/zai-org/GLM-5
+  1  Pro/zai-org/GLM-5.1
+  1  Provider/Model
+  1  Qwen 3.5 9B (MLX 4-bit)
+  1  Qwen 3.5 9B (Q4_K_M)
+  1  Qwen Code is an OAuth-based API that requires authentication through the official Qwen client. You'll need to set up OAuth credentials first.
+  1  Qwen Coder Plus (Alibaba Cloud)
+  1  Qwen Flash (Alibaba Cloud)
+  1  Qwen Max (Alibaba Cloud)
+  1  Qwen Max Latest (Qwen3.8 Max)
+  1  Qwen Plus (Alibaba Cloud)
+  1  Qwen Plus Character (Japanese)
+  1  Qwen Plus Latest (Alibaba Cloud)
+  2  Qwen/Qwen2.5-72B-Instruct
+  2  Qwen/Qwen2.5-7B-Instruct
+  1  Qwen/Qwen3.5-122B-A10B
+  1  Qwen/Qwen3.5-27B
+  1  Qwen/Qwen3.5-35B-A3B
+  1  Qwen/Qwen3.5-397B-A17B
+  1  Qwen/Qwen3.5-4B
+  2  Qwen/Qwen3.5-9B
+  1  Qwen/Qwen3.6-35B-A3B
+  2  Qwen/Qwen3-14B
+  1  Qwen/Qwen3-235B-A22B-Thinking-2507
+  2  Qwen/Qwen3-30B-A3B-Instruct-2507
+  2  Qwen/Qwen3-32B
+  2  Qwen/Qwen3-8B
+  2  Qwen/Qwen3-Coder-30B-A3B-Instruct
+  2  Qwen/Qwen3-Coder-480B-A35B-Instruct
+  1  qwen/qwen3-coder-next
+  3  qwen/qwen3-vl-30b-a3b-instruct
+  3  qwen/qwen3-vl-30b-a3b-thinking
+  2  Qwen/Qwen3-VL-32B-Instruct
+  2  Qwen/Qwen3-VL-32B-Thinking
+  3  qwen/qwen3-vl-8b-instruct
+  1  Qwen: Qwen Plus 0728
+  1  Qwen: Qwen2.5 7B Instruct
+  1  Qwen: Qwen3 14B
+  1  Qwen: Qwen3 235B A22B Instruct 2507
+  1  Qwen: Qwen3 235B A22B Thinking 2507
+  1  Qwen: Qwen3 30B A3B Instruct 2507
+  1  Qwen: Qwen3 30B A3B Thinking 2507
+  1  Qwen: Qwen3 8B
+  1  Qwen: Qwen3 Coder 480B A35B
+  1  Qwen: Qwen3 Max Thinking
+  1  Qwen: Qwen3 VL 30B A3B Instruct
+  1  Qwen: Qwen3 VL 30B A3B Thinking
+  1  Qwen: Qwen3 VL 32B Instruct
+  1  Qwen: Qwen3 VL 8B Instruct
+  1  Qwen: Qwen3 VL 8B Thinking
+  1  Qwen: Qwen3.5 Plus 2026-02-15
+  1  Qwen: Qwen3.5 Plus 2026-04-20
+  1  Qwen: Qwen3.5-Flash
+  1  Qwen: Qwen3.8 27B (free)
+  1  Qwen3 235B A22B Instruct (2507)
+  1  Qwen3 235B A22B Instruct 2507 (Cerebras)
+  1  Qwen3 235B A22B Instruct 2507 (NovitaAI)
+  1  Qwen3 235B A22B Instruct 2507 (Vertex AI (OpenAI-compatible))
+  1  Qwen3 235B A22B Thinking (2507)
+  1  Qwen3 235B A22B Thinking 2507 (NovitaAI)
+  1  Qwen3 32B (SCX.ai (Turbo))
+  1  Qwen3 Coder 30B A3B Instruct (NovitaAI)
+  1  Qwen3 Coder 480B A35B Instruct (NovitaAI)
+  1  Qwen3 Coder 480B A35B Instruct (Vertex AI (OpenAI-compatible))
+  1  Qwen3 Coder Flash (Alibaba Cloud)
+  1  Qwen3 Coder Next (EmberCloud)
+  1  Qwen3 Coder Next (EU)
+  1  Qwen3 Coder Plus (Alibaba Cloud)
+  1  Qwen3 Max (Alibaba Cloud)
+  1  Qwen3 Max (EU)
+  1  Qwen3 Max (NovitaAI)
+  1  Qwen3 Next 80B A3B (Instruct)
+  1  Qwen3 Next 80B A3B Instruct (NovitaAI)
+  1  Qwen3 Next 80B A3B Instruct (Vertex AI (OpenAI-compatible))
+  1  Qwen3 Next 80B A3B Thinking (Vertex AI (OpenAI-compatible))
+  1  Qwen3 VL 235B A22B Instruct (DeepInfra)
+  1  Qwen3 VL 235B A22B Instruct (NovitaAI)
+  1  Qwen3 VL 30B A3B Instruct (DeepInfra)
+  1  Qwen3 VL 30B A3B Instruct (NovitaAI)
+  1  Qwen3 VL Flash (Alibaba Cloud)
+  1  Qwen3.5 397B A17B (Alibaba Cloud)
+  1  Qwen3.5 397B A17B (NovitaAI)
+  1  Qwen3.5 9B (DeepInfra)
+  1  qwen3.5:397b
+  1  Qwen3.6 35B A3B (Alibaba Cloud)
+  1  Qwen3.6 35B A3B (NovitaAI)
+  1  Qwen3.6 Flash (Alibaba Cloud)
+  1  Qwen3.6 Max Preview (Alibaba Cloud)
+  1  Qwen3.6 Plus (Alibaba Cloud)
+  1  Qwen3.7 Flash (Alibaba Cloud)
+  1  Qwen3.7 Max (Alibaba Cloud)
+  1  Qwen3.7 Max (NovitaAI)
+  1  Qwen3.7 Plus (Alibaba Cloud)
+  1  Qwen3.8 2.4T A95B (EU)
+  1  Qwen3.8 2.4T A95B (NVFP4)
+  1  Qwen3.8 27B (Consensus Protocol)
+  1  Qwen3.8 27B (free)
+  1  Qwen3.8 27B (NovitaAI)
+  1  Qwen3.8 Flash (Alibaba Cloud)
+  1  Qwen3.8 Flash (NovitaAI)
+  1  Qwen3.8 Flash Next (EU)
+  1  Qwen3.8 Max (Alibaba Cloud)
+  1  Qwen3.8 Max (NovitaAI)
+  1  Qwen3.8 Max (SCX.ai)
+  7  Qwen3-Next 80B-A3B (Thinking)
+  1  Qwen's New SOTA coding model
+  1  Relace: Relace Search
+  1  Remaining:
+  1  Render display math in leqno style (left-justified tags).
+  1  Sakana: Fugu Max
+  1  Sakana: Fugu Ultra v2
+  1  Sao10K: Llama 3.1 Euryale 70B v2.2
+  1  SAP AI Core inference and orchestration platform
+  1  Seed 1.6 (250615)
+  1  Seed 1.6 (250615) (ByteDance)
+  1  Seed 1.6 (250915)
+  1  Seed 1.6 (250915) (ByteDance)
+  1  Seed 1.6 Flash (250715)
+  1  Seed 1.6 Flash (250715) (ByteDance)
+  1  Seed 1.8 (251228)
+  1  Seed 1.8 (251228) (ByteDance)
+  1  Seed 2.0 Code (Deep Infra)
+  1  Seed 2.0 Mini (Deep Infra)
+  1  SenseNova (China)
+  1  Sign in with your ChatGPT Plus or Pro subscription to use GPT-5 models without an API key.
+  1  Sign up for an account to get started for free, or use an API key that provides access to models like Claude Sonnet.
+  1  SiliconFlow (China)
+  1  siliconflow/deepseek-r1-0528
+  1  siliconflow/deepseek-v3.1-terminus
+  1  siliconflow/deepseek-v3.2
+  1  siliconflow/deepseek-v3-0324
+  1  Size:
+  2  Solar Pro 4 (free)
+  1  SpaceXAI: Grok 4.20
+  1  SSE (Legacy)
+  1  Status:
+  1  Stealth: Claude Opus 4.6 (20% off)
+  1  Stealth: Claude Opus 4.7 (20% off)
+  1  Stealth: Claude Opus 4.8 (20% off)
+  1  Stealth: Claude Sonnet 4.6 (20% off)
+  1  Stealth: Qwen3.6 Plus (50% off)
+  2  Step 1 (32K)
+  2  Step 2 (16K)
+  1  Step 3.5 Flash (Deep Infra)
+  1  Step 3.7 Flash (Deep Infra)
+  2  Step 3.7 Flash (Free)
+  1  StepFun (China)
+  1  StepFun (Global)
+  1  StepFun Step Plan (China)
+  1  StepFun Step Plan (Global)
+  1  StepFun: Step 3.7 Flash (free)
+  1  Stepfun-Ai/Gelab Zero 4b Preview
+  2  stepfun-ai/Step-3.5-Flash
+  1  stripe-{{i}}-background-color
+  1  stripe-{{i}}-background-opacity
+  1  stripe-{{i}}-background-size
+  1  Summary:
+  1  Tencent Coding Plan (China)
+  2  tencent/Hunyuan-A13B-Instruct
+  1  The model has determined this command requires explicit approval.
+  1  The model used search patterns that don't match anything in the file. Retrying...
+  1  The Vercel provider gives you access to the v0 API, designed for building modern web applications.
+  1  TheDrummer/Artemis v1.1
+  1  Thinking Machines: Inkling Small (free)
+  1  This Object indicates the Parser is during Recording Phase
+  2  Tip:
+  1  Tokens:
+  1  TOML, also INI
+  1  Total:
+  1  Turn on strict / LaTeX faithfulness mode, which throws an error if the input uses features that are not supported by LaTeX.
+  1  Type:
+  1  Unable to fetch models from Ollama server. Please ensure Ollama is running and accessible, or enter the model ID manually above.
+  1  Unable to fetch models from SAP AI Core service instance. Please check your SAP AI Core configuration or ensure your deployments are deployed and running in the service instance
+  1  Unexpected `%c`. Add an attribute name before it
+  1  Unexpected `%c`. Expected `;` instead
+  1  Unexpected `%c`. Expected `[0-9]` for decimal references or `[0-9a-fA-F]` for hexadecimal references
+  1  Unexpected `%c`. Expected `<!--` to open the comment
+  3  Unexpected `%c`. Expected an ASCII letter instead
+  5  Unexpected `%c`. Expected ASCII whitespace instead
+  1  Unexpected `%c`. Expected identifier for `public` instead
+  1  Unexpected `%c`. Expected whitespace, `/`, `>`, `=`, or probably an ASCII letter
+  1  Unexpected `%c`. Quote the attribute value to include it
+  1  Unexpected `%c-1`. Expected `>` instead
+  1  Unexpected `%c-1`. Expected `-->` to close the comment
+  1  Unexpected `%c-1`. Expected an attribute value or no `%c-1` instead
+  1  Unexpected `%c-1`. Expected it followed by `>` or in a quoted attribute value
+  1  Unexpected `/`. Expected `>` instead
+  1  Unexpected `<![CDATA[` in HTML. Remove it, use a comment, or encode special characters instead
+  1  Unexpected `<!--`. Expected `-->`
+  1  Unexpected `<noscript>`. Expected a closing tag or a meta element
+  1  Unexpected `>` or `->`. Expected `-->` to close comments
+  1  Unexpected attribute. Expected `>` instead
+  1  Unexpected character at `%c`. Expected `>`
+  1  Unexpected character reference. Expected known named character references
+  1  Unexpected code point `%x`. Do not use lone surrogate characters in HTML
+  1  Unexpected code point `%x`. Do not use noncharacters in HTML
+  1  Unexpected code point `%x`. Do not use NULL characters in HTML
+  1  Unexpected code point. Do not use lone surrogate characters in HTML
+  1  Unexpected code point. Do not use noncharacters in HTML
+  1  Unexpected code point. Do not use NULL characters in HTML
+  1  Unexpected control character `%x`. Expected a non-control code point, 0x00, or ASCII whitespace
+  1  Unexpected doctype end at `%c`. Expected `html` instead
+  1  Unexpected doctype. Expected doctype before head
+  1  Unexpected element after head. Expected the element before `</head>`
+  1  Unexpected end of file. Expected `]]>` to close the CDATA
+  2  Unexpected end of file. Expected `-->` to close the comment
+  1  Unexpected end of file. Expected `>` to close the tag
+  1  Unexpected end of file. Expected a valid doctype (such as `<!doctype html>`)
+  1  Unexpected end of file. Expected closing tag instead
+  1  Unexpected end of file. Expected tag name instead
+  1  Unexpected end of file. Expected text or a closing tag
+  1  Unexpected end tag. Expected no end tag or another end tag
+  1  Unexpected sequence at `%c`. Expected `public` or `system`
+  1  Unexpected start tag `<head>`. Expected `<head>` directly after doctype
+  1  Unexpected text character `%c`. Only use text in `<noscript>`s in `<body>`
+  1  Unexpectedly closing tag. Expected other tags to be closed first
+  1  Unexpectedly control character in reference. Expected a non-control code point, 0x00, or ASCII whitespace
+  1  Unexpectedly double attribute. Expected attributes to occur only once
+  1  Unexpectedly high character reference. Expected character references to be at most hexadecimal 10ffff (or decimal 1114111)
+  1  Upstage: Solar Pro 3
+  1  Upstage: Solar Pro 4
+  1  Use Claude Code SDK with Claude Pro/Max subscription
+  3  Use None to disable adaptive thinking. Higher effort increases response detail and token usage.
+  1  Used:
+  1  Vercel's AI gateway service
+  1  Voxtral Mini (latest)
+  3  Voxtral Small (latest)
+  1  X-Ai/Grok 4.1 Fast Non Reasoning
+  1  X-Ai/Grok 4.1 Fast Reasoning
+  1  x-AI/Grok-4.1-Fast
+  1  x-AI/Grok-4-Fast
+  1  X-Ai/Grok-4-Fast-Non-Reasoning
+  1  X-Ai/Grok-4-Fast-Reasoning
+  1  x-AI/Grok-Code-Fast 1
+  1  xAI: Grok 4 Fast Reasoning
+  1  xAI: Grok Latest
+  1  Xiaomi MiMo-V2.5 (free)
+  1  Xiaomi MiMo-V2.5-Pro (free)
+  1  Xiaomi Token Plan (China)
+  1  Xiaomi Token Plan (Europe)
+  1  Xiaomi Token Plan (Singapore)
+  1  Xiaomi/Mimo-V2-Flash
+  2  XiaomiMiMo/MiMo-V2-Flash
+  1  You can find more information about SAP AI Core API access here.
+  1  Z.ai: GLM 5.3 FlashX
+  1  Z.ai: GLM Flash Latest
+  1  Z.ai: GLM Latest
+  1  Z.AI's coding-focused models
+  1  Z.AI's family of LLMs
+  1  Z-Ai/Autoglm Phone 9b
+  1  Z-AI/GLM 4.6
+  1  Z-Ai/GLM 4.7
+  1  Z-Ai/GLM 5
+  2  zai-org/GLM-4.5-Air
+  1  zai-org/GLM-5
+  1  zai-org/GLM-5.1
+  1  zai-org/GLM-5V-Turbo
+  1  Z-AI's new top open-weights model
+  1  זמן ISO
+  1  טווח IPv4
+  1  טווח IPv6
+  1  כתובת IPv4
+  1  כתובת IPv6
+  1  מחרוזת JSON
+  1  מפה (Map)
+  1  משך זמן ISO
+  1  סימבול (Symbol)
+  1  ערך לא מוגדר (undefined)
+  1  ערך ריק (null)
+  1  קבוצה (Set)
+  1  תאריך ISO
+  1  תאריך וזמן ISO
+  1  📋 Output is being logged to:

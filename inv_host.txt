@@ -1,0 +1,7 @@
+### EXTENSION HOST (next)  |  unique display strings: 6
+ 217  Wingdings 2
+ 208  Wingdings 3
+   1  ${o.name}
+   1  agent_step
+   1  execute_tool
+   1  other_name

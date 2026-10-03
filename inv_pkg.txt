@@ -1,0 +1,27 @@
+### PACKAGE.JSON  |  unique display strings: 26
+   2  Добавить в Cline
+   1  Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.
+   1  Cline Bot Inc.
+   1  Cline открывает доступ к передовым моделям: Anthropic, Gemini, OpenAI и другим.
+   1  Cline пишет код как разработчик, потому что и думает как разработчик. Вот пять способов пустить его в дело:
+   1  Follow the remote rollout assignment.
+   1  Force the new (SDK-based) extension.
+   1  Force the previous (legacy) extension.
+   1  Manual override for Cline's staged extension rollout. `next` forces the new (SDK-based) extension, `legacy` forces the previous one, `auto` follows the remote rollout assignment. Takes effect on window reload.
+   1  MCP-серверы
+   1  Дайте Cline изучить вашу кодовую базу
+   1  Добавить в чат Cline
+   1  Знакомьтесь: Cline — ваш новый напарник в коде
+   1  Объяснить с Cline
+   1  Объяснить ячейку Jupyter в Cline
+   1  Подключайте базы данных, API и другие внешние инструменты через MCP.
+   1  Просматривайте планы и диффы Cline, подтверждайте изменения до их применения. Никаких сюрпризов.
+   1  Расширение мощными инструментами (MCP)
+   1  Сбросить OAuth-токены MCP (для тестов)
+   1  Сгенерировать сообщение коммита в Cline
+   1  Сгенерировать сообщение коммита в Cline — остановить
+   1  Сгенерировать ячейку Jupyter в Cline
+   1  Скажите Cline, чего вы хотите достичь: он планирует, уточняет и только потом пишет код — как настоящий напарник.
+   1  Укажите Cline на проект: он разберётся в нём и будет вносить осмысленные правки с учётом контекста.
+   1  Улучшить с Cline
+   1  Улучшить ячейку Jupyter в Cline

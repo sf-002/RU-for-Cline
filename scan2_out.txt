@@ -1,0 +1,455 @@
+=== A: PHRASES (multi-word, likely UI text) ===
+total phrases: 3249
+ 130  protobuf decode recursion limit exceeded
+  28  Qwen3.7 Max
+  27  Qwen3.7 Plus
+  23  Qwen3.6 Plus
+  22  basic label-container outer-path
+  22  Qwen3.8 Flash
+  22  Qwen3.8 Max
+  20  You must provide a valid API key or choose a different provider.
+  19  Qwen3.6 Flash
+  18  assert failed
+  17  basic label-container
+  17  Qwen3 Max
+  16  non exhaustive match
+  14  Clear search
+  14  Qwen3 Coder Next
+  13  Qwen3.5 Plus
+  12  Qwen3 Coder Plus
+  11  input-icon-button codicon codicon-close
+  11  node default
+  10  flex items-center gap-2
+  10  Hy4 preview
+  10  Qwen3 Coder Flash
+  10  Qwen3.6 Max Preview
+  10  Qwen3.7 Flash
+   8  Cannot call a class as a function
+   8  text-sm font-normal mb-2
+   8  trebuchet ms
+   7  Expected a function
+   7  Invalid list
+   7  This setting is managed by your organization's remote configuration
+   6  Failed to open file:
+   6  flex items-center gap-2 mb-1
+   6  init was not called
+   6  MiMo V2.5 Pro
+   6  Minimax M2.1
+   6  MiniMax M2.5
+   6  MiniMax M2.7
+   6  No file system is available.
+   6  node end ((
+   6  Optional task ID context
+   6  Qwen3.5 Flash
+   6  Recursive Variable
+   6  Seed 2.0 Code
+   6  Seed 2.0 Lite
+   6  Seed 2.0 Mini
+   6  Seed 2.1 Turbo
+   6  text-(--vscode-descriptionForeground) text-xs mt-2
+   6  text-error mb-2
+   5  bo‘lishi kerak
+   5  failed to load script
+   5  flex flex-col
+   5  Hy3 Preview
+   5  iconSquare intersect
+   5  Laguna S 2.1
+   5  Lexa: )
+   5  MiniMax M3
+   5  Nano Banana 2
+   5  Nano Banana Pro
+   5  p-2 border-none rounded-md mb-2 bg-(--vscode-textBlockQuote-background)
+   5  să aibă
+   5  Survey not found
+   5  This file is outside of your workspace
+   5  to have
+   5  Trinity Large Thinking
+   5  Unexpected `%c`. Expected ASCII whitespace instead
+   4  að hafa
+   4  API Key
+   4  Base URL
+   4  Cannot `
+   4  Cannot close `
+   4  cherry-pick abc
+   4  Command R+
+   4  Context Window Size
+   4  Edge is null!
+   4  flex flex-col gap-0
+   4  flex flex-col gap-2
+   4  icon-shape default
+   4  journey-section section-type-
+   4  JSON string
+   4  label label__hidden
+   4  Laguna XS 2.1
+   4  LinkedMap got modified during iteration.
+   4  Long description:
+   4  Max Output Tokens
+   4  Mercury 2
+   4  Message body
+   4  Message subject
+   4  MiniMax M1
+   4  new throw return else
+   4  node end (-
+   4  node found ..
+   4  Nova 2 Lite
+   4  p-0 m-0 flex items-center
+   4  Qwen3.8 Flash Next
+   4  Qwen3.8 Omni Flash
+   4  Qwen3-VL Plus
+   4  relative w-full
+   4  return this
+   4  Rough node insert CXC
+   4  Sakana Namazu
+   4  Search and select a model...
+   4  Seed 1.6
+   4  Seed 2.0 Pro
+   4  Solar Pro 4
+   4  Source and/or target doesn't know this edge!
+   4  Source and/or target is null!
+   4  Start New Task
+   4  Teammate identifier
+   4  text-(--vscode-descriptionForeground) text-xs wrap-anywhere
+   4  The selector `
+   4  Token Type: ->
+   4  union requires multiple identifiers
+   4  Use custom base URL
+   4  Workspace edit is not configured for document changes.
+   4  zu haben
+   3  Adds a comment
+   3  and or not only
+   3  arial, sans-serif
+   3  Async schemas not supported in object keys currently
+   3  codicon codicon-close
+   3  color: orange
+   3  Command R
+   3  Copy Code
+   3  Create my Account
+   3  data ISO
+   3  Delete Server
+   3  display: none;
+   3  Enter API Key...
+   3  Error fetching browser connection info:
+   3  Error in survey callback
+   3  Error opening URL in browser:
+   3  Expected function, string, or object as test
+   3  Expected usable value, not `
+   3  Failed to open image:
+   3  Failed to toggle favorite model:
+   3  Flag overrides set
+   3  flex items-center
+   3  hora ISO
+   3  input-icon-button codicon codicon-close flex justify-center items-center h-full
+   3  Invalid input
+   3  IPv4 address
+   3  IPv4 range
+   3  IPv6 address
+   3  IPv6 range
+   3  ISO datum
+   3  ISO време
+   3  ISO дата
+   3  Kilo Gateway
+   3  Laguna S 2.1 (free)
+   3  Lined Document
+   3  Ling 3.0 Flash
+   3  Ling 3.0 Flash VL
+   3  Magistral Medium (latest)
+   3  Mercury 2.5
+   3  MiMo V2.5
+   3  MiMo V2.6 Flash
+   3  MiMo V2.6 Pro
+   3  MiMo V2.6 Pro UltraSpeed
+   3  Model ID
+   3  Nano Banana
+   3  Nova Lite
+   3  Nova Micro
+   3  Nova Pro
+   3  outer title-state
+   3  pan viewport
+   3  Qwen3.8 Max Preview
+   3  read model
+   3  Reasoning Effort
+   3  Retry the request after switching.
+   3  Seed 1.6 Flash
+   3  Seed 1.8
+   3  Seed Evolving
+   3  Sending response failed.
+   3  Setting parent
+   3  Tagged Document
+   3  Text Block
+   3  text-error text-xs mt-2
+   3  This is outside of your workspace
+   3  Value is larger than Number.MAX_SAFE_INTEGER
+   3  Value is smaller than Number.MIN_SAFE_INTEGER
+   3  Voxtral Small (latest)
+   3  w-4 h-4
+   3  w-4 h-4 mr-1 animate-spin
+   3  w-full mt-3
+   3  Z.AI Coding Plan
+   2  Abliterated Model Large
+   2  Abliterated Model Large V2
+   2  Add Files & Images
+   2  adresse IPv4
+   2  adresse IPv6
+   2  AionLabs: Aion-2.0
+   2  alamat IPv4
+   2  alamat IPv6
+   2  Already has a child!
+   2  Already has a parent!
+   2  Anthropic Claude Opus 4.6
+   2  Anthropic Claude Sonnet 4.6
+   2  Anthropic: Claude 3 Haiku
+   2  Anthropic: Claude Sonnet 4
+   2  Anthropic: Claude Sonnet 4.5
+   2  Array of dependency task IDs
+   2  att ha
+   2  att innehålla
+   2  Begin icon
+   2  Blocking reason
+   2  Both owners must be this graph!
+   2  branch abc
+   2  cadena JSON
+   2  Cannot close document, a token (`
+   2  chaîne JSON
+   2  Circle intersect
+   2  circular link
+   2  Click to open in browser
+   2  Cloud Bang
+   2  Cluster identified
+   2  codicon codicon-comment-discussion
+   2  codicon codicon-refresh mr-1.5
+   2  color: lightgreen
+   2  Command A
+   2  Compact Task
+   2  Completion summary
+   2  Console Logs
+   2  Copy failed
+   2  Create file
+   2  Create skill
+   2  Curly Brace
+   2  cursor-pointer text-sm
+   2  custom base model
+   2  Data Input/Output
+   2  Data Store
+   2  date ISO
+   2  Delete all history
+   2  Dependency task ID
+   2  Direct Access Storage
+   2  Disk Storage
+   2  Doubao Seed 2.0 Code
+   2  Doubao Seed 2.0 Pro
+   2  Drawing state diagram (v2)
+   2  Dropping metric '
+   2  durée ISO
+   2  Edge already in inter-graph edge list!
+   2  Edge already in source and/or target incidency list!
+   2  Edge owner graph or owner graph manager is null!
+   2  Edge source and/or target is null!
+   2  Edit Configuration
+   2  el valor
+   2  email address
+   2  end icon
+   2  End of comment missing
+   2  Error copying to clipboard:
+
+=== B: SINGLE WORDS (TitleCase, len 4-20, count>=2) ===
+total words: 2954
+6375  tools
+5270  REASONING
+4900  temperature
+3775  Images
+3097  effort
+3011  high
+2329  medium
+1743  video
+1671  Module
+1642  files
+1490  none
+1209  toggle
+1110  xhigh
+ 633  audio
+ 528  minimal
+ 497  RULE
+ 469  arguments
+ 466  RuleCall
+ 437  function
+ 402  definition
+ 357  rect
+ 340  circle
+ 337  keyword
+ 330  terminal
+ 329  Fragment
+ 324  operator
+ 322  hidden
+ 314  parenthesized
+ 304  elements
+ 302  assignment
+ 301  feature
+ 267  auto
+ 242  regex
+ 232  TerminalRule
+ 213  MiniMax
+ 192  RegexToken
+ 191  left
+ 186  group
+ 158  transform
+ 149  calculated
+ 148  ParserRule
+ 146  cardinality
+ 136  center
+ 128  returnType
+ 126  handDrawn
+ 119  middle
+ 118  line
+ 114  right
+ 104  entry
+ 102  Alternatives
+ 101  anthropic
+ 101  bottom
+ 101  Enter
+ 100  nemotron
+  99  normal
+  96  true
+  95  mimo
+  95  stroke
+  94  fill
+  90  element
+  90  marker
+  89  parameters
+  87  default
+  84  isOptional
+  84  SimpleType
+  84  TypeAttribute
+  83  orient
+  81  lineEnding
+  79  markerheight
+  79  markerwidth
+  76  seed
+  76  start
+  74  refx
+  74  refy
+  71  cScale
+  71  ling
+  70  defs
+  68  flex
+  67  PLAN
+  66  solid
+  65  interface
+  64  black
+  63  exit
+  61  create
+  60  attributes
+  60  CharacterRange
+  59  superTypes
+  57  data
+  57  elem
+  57  html
+  56  false
+  55  select
+  51  linePrefix
+  51  tnqrlb
+  50  display
+  50  includes
+  50  primitiveType
+  50  symbol
+  49  userSpaceOnUse
+  48  option
+  47  click
+  46  link
+  44  loader
+  43  UUID
+  43  white
+  42  optional
+  42  viewbox
+  41  bold
+  41  GUID
+  41  horizontal
+  41  markerunits
+  41  self
+  40  content
+  40  cuid
+  40  KSUID
+  40  mousedown
+  40  nanoid
+  40  ULID
+  38  cScalePeer
+  38  detector
+  38  file
+  38  Root
+  38  TerminalAlternatives
+  37  free
+  37  list
+  37  null
+  37  ParseError
+  36  cline
+  36  whitespace
+  35  polygon
+  35  table
+  35  transparent
+  35  typeRef
+  34  space
+  33  anonymous
+  33  Grammar
+  33  padding
+  33  rules
+  33  size
+  32  clear
+  32  code
+  32  cScaleLabel
+  32  textarea
+  32  vertical
+  31  bigint
+  31  body
+  31  chunkString
+  31  meta
+  31  pointer
+  30  batch
+  30  draw
+  30  openai
+  30  paragraph
+  29  emoji
+  29  scroll
+  28  blockquote
+  28  column
+  28  initial
+  27  break
+  27  COMMAND
+  27  Math
+  27  switch
+  26  constructor
+  26  cScaleInv
+  26  ellipse
+  26  full
+  26  throw
+  26  visible
+  25  Escape
+  25  inherit
+  24  bezier
+  24  custom
+  24  datatype
+  24  newline
+  24  openrouter
+  24  Production
+  24  secondary
+  24  transcription
+  24  undefined
+  23  actor
+  23  block
+  23  fixed
+  23  float
+  23  lightgrey
+  23  mord
+  23  SKILL
+  23  TOOL
+  22  absolute
+  22  accDescr
+  22  accTitle
+  22  bedrock
+  22  border
+  22  change
+  22  codeIndented
+  22  completed
+  22  getStyles
+  22  kern
+  22  main
+  22  ministral
+  22  ordgroup

@@ -1,0 +1,126 @@
+TOTAL replacements: 221 in 95 dictionary entries
+file: c:\Users\User\.vscode\extensions\saoudrizwan.claude-dev-4.1.20\next\webview-ui\build\assets\index.js  size now: 9,34 MB
+ok     1  How will you use Cline?  ->  Как вы будете использовать Cline?
+ok     1  Select an option below to get started.  ->  Выберите вариант ниже, чтобы начать.
+ok     1  Absolutely Free  ->  Полностью бесплатно
+ok     1  Get started at no cost  ->  Начните бесплатно
+ok     1  Frontier Model  ->  Топовая модель
+ok     1  Claude, GPT Codex, Gemini, etc.  ->  Claude, GPT Codex, Gemini и другие
+ok     1  Bring my own API key  ->  Свой API-ключ
+ok     1  Use Cline with your provider of choice  ->  Работайте со своим провайдером
+ok     2  Continue  ->  Продолжить
+ok     1  Login to Cline  ->  Войти в Cline
+ok     3  Create my Account  ->  Создать аккаунт
+ok     5  Back  ->  Назад
+ok     1  Select a ClinePass model  ->  Выберите модель ClinePass
+ok     1  Select a free model  ->  Выберите бесплатную модель
+ok     3  Account  ->  Аккаунт
+ok     2  Log out  ->  Выйти
+ok     1  Sign Out  ->  Выйти
+ok     1  Chat  ->  Чат
+ok     1  New Task  ->  Новая задача
+ok     3  History  ->  История
+ok     3  Settings  ->  Настройки
+ok     4  Customize  ->  Настроить
+ok     2  About  ->  О программе
+ok     1  About Cline  ->  О Cline
+ok     3  MCP Servers  ->  MCP-серверы
+ok     1  Rules  ->  Правила
+ok     2  Hooks  ->  Хуки
+ok     1  Workflows  ->  Сценарии
+ok     3  Skills  ->  Навыки
+ok     1  Installed  ->  Установлено
+ok     3  Marketplace  ->  Магазин
+ok     1  Configure  ->  Настроить
+ok     1  Advanced  ->  Дополнительно
+ok     2  Debug  ->  Отладка
+ok     1  Features  ->  Возможности
+ok     2  Feature Settings  ->  Настройки возможностей
+ok     1  General  ->  Общие
+ok     2  General Settings  ->  Общие настройки
+ok     1  Terminal  ->  Терминал
+ok     2  Terminal Settings  ->  Настройки терминала
+ok     3  API Configuration  ->  Настройки API
+ok     1  Documentation  ->  Документация
+ok     6  Learn more  ->  Подробнее
+ok     2  Context Window  ->  Контекстное окно
+ok     2  Context Window Size  ->  Размер контекстного окна
+ok     2  Max Output Tokens  ->  Максимум токенов вывода
+ok     1  Reasoning Effort  ->  Глубина рассуждений
+ok     1  Temperature  ->  Температура
+ok     2  API Provider  ->  Провайдер API
+ok     5  API Key  ->  API-ключ
+ok     5  Base URL  ->  Базовый URL
+ok     3  Model ID  ->  ID модели
+ok     1  Model Configuration  ->  Конфигурация модели
+ok     5  Use custom base URL  ->  Свой базовый URL
+ok     5  Enter API Key...  ->  Введите API-ключ…
+ok     1  Checkpoints  ->  Контрольные точки
+ok     1  Save progress at key points for easy rollback  ->  Сохранять прогресс в ключевых точках для отката
+ok     1  Edit Configuration  ->  Изменить конфигурацию
+ok     1  Delete Server  ->  Удалить сервер
+ok     1  Console Logs  ->  Логи консоли
+ok     7  Search and select a model...  ->  Найдите и выберите модель…
+ok     2  not set  ->  не задано
+ok     1  Read files  ->  Чтение файлов
+ok     1  Edit files  ->  Правка файлов
+ok     1  Execute commands  ->  Выполнение команд
+ok     1  Use MCP servers  ->  Использование MCP-серверов
+ok     1  Read  ->  Чтение
+ok     1  Edit  ->  Правка
+ok     1  Browser  ->  Браузер
+ok     1  Images  ->  Изображения
+ok     1  Add Files & Images  ->  Добавить файлы и изображения
+ok     4  Approve  ->  Подтвердить
+ok     6  Reject  ->  Отклонить
+ok     4  Retry  ->  Повторить
+ok     1  Save  ->  Сохранить
+ok     1  Resume Task  ->  Продолжить задачу
+ok     4  Start New Task  ->  Начать новую задачу
+ok     2  Proceed While Running  ->  Продолжить, не дожидаясь
+ok     1  Abort  ->  Прервать
+ok     8  Cancel  ->  Отмена
+ok     1  Copy Code  ->  Копировать код
+ok     1  Compact Task  ->  Сжать задачу
+ok     3  Done  ->  Готово
+ok     1  Next  ->  Далее
+ok     1  Previous  ->  Назад
+ok     1  Close  ->  Закрыть
+ok     1  Remove  ->  Удалить
+ok     2  Enabled  ->  Включено
+ok     1  Disabled  ->  Отключено
+ok     1  None  ->  Нет
+ok     1  Custom  ->  Свой
+ok     1  Thinking...  ->  Думает…
+ok     3  Loading...  ->  Загрузка…
+ok     1  Plan Mode  ->  Режим Plan
+ok     1  Act Mode  ->  Режим Act
+pair   3  ?"Yes":"No" -> ?"Да":"Нет"
+pair   1  ?"Copied":"Copy" -> ?"Скопировано":"Копировать"
+pair   1  ?"See less":"See more" -> ?"Свернуть":"Ещё"
+pair   1  ?"Refreshing…":"Refresh" -> ?"Обновляется…":"Обновить"
+bare  20  You must provide a valid API key or choose a different provider.
+bare   5  This file is outside of your workspace
+bare   3  This is outside of your workspace
+
+=== NOT FOUND (20) ===
+Get Started for Free
+Usage
+Higher effort improves depth, but uses more tokens.
+Default: https://api.example.com
+User Edits
+Clear search
+Use the browser
+Execute
+Files
+Audio
+Delete Task
+Delete all history
+Copy
+Show more
+See more
+Response
+Request
+Refresh
+Export
+Thinking

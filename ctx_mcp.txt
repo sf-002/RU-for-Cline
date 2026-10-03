@@ -1,0 +1,15 @@
+==== Connect Cline to external ====
+p",label:"MCP",singular:"MCP server",plural:"MCP servers",title:"MCP-серверы",description:k.jsxs(k.Fragment,{children:["Connect Cline to external APIs, local tools, and hosted services through"," ",k.jsx(ya,{href:"https://modelcontextprotocol.io/",children:"MCP"})," servers."]}),icon:hmt},{type:"plugin",label:"Plugins",singular:"plugin",plural:"plugins",titl
+
+==== No MCP servers installed ====
+name))}):k.jsx("div",{className:"flex flex-col items-center gap-3 my-5 text-(--vscode-descriptionForeground)",children:"No MCP servers installed"})},Kpn=()=>{const{mcpServers:e,navigateToSettings:t,remoteConfigSettings:i}=Mi(),n=i?.remoteMCPServers&&i.remoteMCPServers.length>0;return k.jsxs("div",{style:{padding:"16px 20px"},children:[k.jsxs("div",{style:{co
+
+==== Add Remote Server ====
+arance:"primary",onClick:()=>s(!0),children:[k.jsx("span",{className:"codicon codicon-add",style:{marginRight:"6px"}}),"Add Remote Server"]}),l&&o&&k.jsx("div",{className:"marketplace-mcp-form",children:k.jsx(ebt,{onCancel:()=>s(!1),onServerAdded:()=>s(!1),showEditConfiguration:!1})}),k.jsxs(dn,{appearance:"secondary",onClick:()=>{Qh.openMcpSettings(Zt.creat
+
+==== Advanced MCP Settings ====
+,k.jsx("div",{style:{textAlign:"center"},children:k.jsx(ya,{onClick:()=>t("features"),style:{fontSize:"12px"},children:"Advanced MCP Settings"})})]})]})},Ypn=({onDone:e,initialTab:t})=>{const{remoteConfigSettings:i,setMcpServers:n,environment:a}=Mi(),r=i?.blockPersonalRemoteMCPServers!==!0,[o,s]=U.useState(t||"configure"),l=u=>{s(u)};return U.useEffect(()=>{
+
+==== tabs context ====
+ flex items-center",onClick:()=>$(!A),children:k.jsx("i",{className:"codicon codicon-law",style:{fontSize:"12.5px"}})})})]})}),A&&k.jsxs(oSt,{$arrowPosition:V,$menuPosition:K,children:[k.jsxs("div",{className:"flex-shrink-0 px-3 pt-2",children:[k.jsx("div",{style:{display:"flex",justifyContent:"space-between",marginBottom:"10px",overflow:"hidden"},children:k.jsxs("div",{style:{display:"flex",gap:"1px",borderBottom:"1px solid var(--vscode-panel-border)",flexWrap:"wrap"},children:[k.jsx(QD,{isActive:G==="rules",onClick:()=>j("rules"),children:"Правила"}),s&&k.jsx(QD,{isActive:G==="hooks",onClick:()=>j("hooks"),children:"Хуки"}),k.jsx(QD,{isActive:G==="skills",onClick:()=>j("skills"),children:"Навыки"}),k.jsx(QD,{isActive:G==="workflows",onClick:()=>j("workflows"),children:"Сценарии"})]})}),G==="rules"&&Ce||G==="workflows"&&qe||G==="skills"&&Se?k.jsxs("div",{className:"flex items-center gap-2 px-3 py-3 mb-4 bg-vscode-textBlockQuote-background border-l-[3px] border-vscode-textLink-foregrou
+index of РќР°РІС‹РєРё: 2497664

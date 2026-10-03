@@ -1,0 +1,143 @@
+status | count | logicHits | string
+ok    |    1 |    0 | How will you use Cline?
+ok    |    1 |    0 | Select an option below to get started.
+ok    |    1 |    0 | Absolutely Free
+RISKY |    7 |    1 | ClinePass
+ok    |    1 |    0 | Frontier Model
+ok    |    1 |    0 | Bring my own API key
+ok    |    1 |    0 | Login to Cline
+ok    |    3 |    0 | Create my Account
+ok    |    2 |    0 | Continue
+ok    |    5 |    0 | Back
+ok    |    8 |    0 | Cancel
+ok    |    1 |    0 | Save
+ok    |    5 |    0 | Approve
+ok    |    7 |    0 | Reject
+ok    |    5 |    0 | Retry
+ok    |    2 |    0 | New Task
+ok    |    4 |    0 | Start New Task
+ok    |    1 |    0 | Resume Task
+ok    |    4 |    0 | Delete
+ok    |    1 |    0 | Delete Task
+ok    |    1 |    0 | Delete all history
+ok    |    3 |    0 | Clear
+ok    |   14 |    0 | Clear search
+ok    |    4 |    0 | Copy
+ok    |    2 |    0 | Copy Code
+ok    |    2 |    0 | Copy failed
+ok    |    1 |    0 | Edit
+ok    |    2 |    0 | Edit Configuration
+ok    |    3 |    0 | History
+ok    |    3 |    0 | Settings
+ok    |    1 |    0 | Chat
+ok    |    3 |    0 | MCP Servers
+ok    |    3 |    0 | MCP
+ok    |    1 |    0 | Tools
+ok    |    1 |    0 | Resources
+ok    |    3 |    0 | Marketplace
+ok    |    3 |    0 | Plan
+RISKY |    2 |    1 | Act
+ok    |    1 |    0 | Plan Mode
+ok    |    1 |    0 | Act Mode
+ok    |    2 |    0 | Proceed While Running
+ok    |    1 |    0 | Show more
+ok    |    1 |    0 | See more
+ok    |    1 |    0 | Send
+RISKY |    1 |    1 | Type a message...
+ok    |    2 |    0 | Thinking
+RISKY |    2 |    1 | Thinking...
+ok    |    1 |    0 | Loading
+RISKY |    6 |    2 | Loading...
+ok    |   11 |    0 | Error
+ok    |    2 |    0 | Info
+RISKY |    3 |    1 | Completed
+RISKY |    2 |    1 | Running
+ok    |    2 |    0 | Context Window
+ok    |    4 |    0 | Context Window Size
+ok    |    4 |    0 | Max Output Tokens
+ok    |    2 |    0 | Reasoning Effort
+ok    |    2 |    0 | Temperature
+ok    |    2 |    0 | API Provider
+ok    |    5 |    0 | API Key
+ok    |    5 |    0 | Base URL
+ok    |   29 |    0 | Model
+ok    |    4 |    0 | Model ID
+ok    |    1 |    0 | Model Configuration
+ok    |    3 |    0 | OpenAI Compatible
+ok    |    3 |    0 | Ollama
+ok    |    1 |    0 | LM Studio
+ok    |    3 |    0 | OpenRouter
+ok    |    4 |    0 | Anthropic
+ok    |    6 |    0 | Use custom base URL
+ok    |    1 |    0 | Checkpoints
+ok    |    2 |    0 | Advanced
+ok    |    3 |    0 | Debug
+ok    |    2 |    0 | About
+ok    |    3 |    0 | Account
+ok    |    1 |    0 | Usage
+ok    |    4 |    0 | Terminal
+ok    |    2 |    0 | Browser
+ok    |    1 |    0 | Files
+ok    |    2 |    0 | Images
+ok    |    1 |    0 | Audio
+ok    |    2 |    0 | Add Files & Images
+RISKY |   10 |    1 | Search and select a model...
+RISKY |    2 |    2 | Create file
+RISKY |    2 |    2 | Create skill
+ok    |    1 |    0 | Rules
+ok    |    1 |    0 | Workflows
+ok    |    3 |    0 | Skills
+ok    |    3 |    0 | Delete Server
+ok    |    2 |    0 | Console Logs
+ok    |    6 |    0 | Learn more
+ok    |    6 |    0 | Enter API Key...
+ok    |   20 |    0 | You must provide a valid API key or choose a different provider.
+ok    |    5 |    0 | This file is outside of your workspace
+ok    |    3 |    0 | This is outside of your workspace
+ok    |    2 |    0 | Compact Task
+ok    |    2 |    0 | Completion summary
+ok    |    1 |    0 | Response
+ok    |    2 |    0 | Enabled
+ok    |    1 |    0 | Disabled
+ok    |    1 |    0 | Configure
+ok    |    3 |    0 | Default
+ok    |    2 |    0 | Custom
+ok    |    4 |    0 | None
+ok    |    1 |    0 | Close
+ok    |    3 |    0 | Done
+ok    |    2 |    0 | Next
+ok    |    1 |    0 | Previous
+RISKY |    4 |    2 | Start
+ok    |    2 |    0 | Stop
+ok    |    1 |    0 | Pause
+ok    |    1 |    0 | Abort
+ok    |    2 |    0 | Task
+ok    |    3 |    0 | New
+ok    |    2 |    0 | Select
+ok    |    2 |    0 | Update
+ok    |    1 |    0 | Refresh
+ok    |    1 |    0 | Export
+RISKY |   15 |    8 | Set
+ok    |    1 |    0 | Add
+ok    |    1 |    0 | Remove
+RISKY |    4 |    3 | Yes
+ok    |    4 |    0 | No
+ok    |    1 |    0 | Features
+ok    |    1 |    0 | General
+ok    |    1 |    0 | Documentation
+ok    |    1 |    0 | Discord
+ok    |    1 |    0 | GitHub
+ok    |    2 |    0 | Log out
+ok    |    1 |    0 | Sign Out
+RISKY |    5 |    2 | Free
+ok    |    1 |    0 | Get Started for Free
+ok    |    1 |    0 | Message
+ok    |    4 |    0 | Message body
+ok    |    4 |    0 | Message subject
+ok    |    1 |    0 | Comment
+ok    |    3 |    0 | Adds a comment
+ok    |    2 |    0 | Blocking reason
+ok    |    5 |    0 | Unknown
+ok    |    1 |    0 | Optional
+
+found: 140 / 252; risky: 14
